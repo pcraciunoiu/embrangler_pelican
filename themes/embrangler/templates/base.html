@@ -1,0 +1,80 @@
+{# vim: set ts=2 et sts=2 sw=2: #}
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}">
+<head>
+{% block head %}
+  <meta name="author" content="{{ AUTHOR }}" />
+  <meta name="keywords" content="{{ meta_keywords or BLOG_KEYWORDS }}">
+  <meta name="description" content="{{ meta_description or BLOG_DESCRIPTION }}">
+  <title>{% block title %}{% if page_title %}{{ page_title }} :: {% endif %}{{ SITENAME }}{% endblock title %}</title>
+  <meta charset="utf-8" />
+  <link type="image/x-icon" href="/favicon.ico" rel="shortcut icon">
+  {% if FEED_ATOM %}
+  <link href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
+  {% endif %}
+  {% if FEED_RSS %}
+  <link href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
+  {% endif %}
+  {% if CATEGORY_FEED_ATOM %}
+  <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Categories Atom Feed" />
+  {% endif %}
+  {% if CATEGORY_FEED_RSS %}
+  <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Categories RSS Feed" />
+  {% endif %}
+  {% if TAG_FEED_ATOM %}
+  <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Tags Atom Feed" />
+  {% endif %}
+  {% if TAG_FEED_RSS %}
+  <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Tags RSS Feed" />
+  {% endif %}
+  <link rel="stylesheet" type="text/css" href="/theme/css/main.css">
+  <link rel="stylesheet" type="text/css" href="/theme/css/syntax.css">
+{% endblock head %}
+</head>
+
+<body>
+  <div class="site">
+    <div id="header" role="banner">
+      <h1 class="title">
+        <a href="{{ SITEURL }}">{{ SITENAME }}</a>
+      </h1>
+      {# TODO: menu items #}
+      <h2 class="subtitle">
+        <a href="/about" title="About Paul Craciunoiu">The simple life of a web developer &mdash; by Paul Craciunoiu</a>
+        <a class="the-list" href="/cv">(Resume)</a>
+        <a class="the-list" href="/list">(The List)</a>
+      </h2>
+    </div>
+    {# <div id="promo">
+        <a href="http://humblebundle.com/jobs">Want to join a very exciting startup? Humble Bundle is hiring! Check out our job descriptions &raquo;</a>
+    </div> #}
+
+    <div id="content" role="main">
+      {% block content_top %}{% endblock %}
+      {% block content %}{% endblock %}
+    </div>
+
+    <div id="footer" role="contentinfo">
+      <div class="about">
+        <p>I am currently a software engineer at <a href="http://humblebundle.com">Humble Bundle</a>, changing digital distribution on the internets.</p>
+        <p>Until January 2012, I was the Co-founder and CTO of SoWink Inc, a revolutionary social online network that helps you meet new people.</p>
+        <p>Until April 2011, I worked as a web developer for <a href="http://mozilla.com">Mozilla</a>, with main focus on <a href="http://www.djangoproject.com/">Django</a>, Python, and PHP.</p>
+        <p>I enjoy doing freelance work for other websites, mostly non-profits. If you're interested in my services, contact me through one of the links below.</p>
+      </div><!-- .about -->
+      <div class="contact">
+        <a href="http://twitter.com/embrangler/">Follow me</a> --
+        <span>paul [at] craciunoiu {dot} net</span> --
+        <a href="http://github.com/pcraciunoiu/">My GitHub</a>
+      </div><!-- .contact -->
+      <div class="quote">
+        <p>Success is a journey, not a destination. The doing is often more important than the outcome. &mdash; <a href="http://quoteden.net/author/id/337">Arthur Robert Ashe, Jr</a></p>
+        <p>&copy; Paul Craciunoiu. Some rights reserved. Brought to you by <a href="http://getpelican.com/">Pelican</a></p>
+        </div>
+    </div>
+  </div><!-- .site -->
+
+  {# Google Analytics, etc. #}
+  {% include 'stats.html' %}
+  <script src="/theme/js/main.js"></script>
+</body>
+</html>

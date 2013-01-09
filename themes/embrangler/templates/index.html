@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% set page_title = 'Home' %}
+
+{% block content %}
+<div class="split-summary">
+  {% for article in articles_page.object_list %}
+  <div class="post {{ loop.cycle('first', 'last') }}">
+    <div class="post-meta">
+      <h2><a href="{{ SITEURL }}/{{ article.url }}" rel=bookmark title="Permalink to {{ article.title }}">{{ article .title|truncate(length=50) }}</a></h2>
+      <time datetime="{{ article.date.isoformat() }}">{{ article.date.strftime('%d %b %Y') }}</time>
+      {# NOTE: could use article.locale_date #}
+    </div>
+    <p>
+      {{ article.summary }} <a class="more" href="{{ article.url }}" title="Read post">Read it</a>
+    </p>
+  </div>
+  {% endfor %}
+  <br class="clear"/>
+  {% include 'pagination.html' %}
+</div>
+{% endblock content %}

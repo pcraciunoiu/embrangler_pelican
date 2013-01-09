@@ -1,0 +1,27 @@
+{% if DEFAULT_PAGINATION %}
+<ol class="pagination">
+  {% if articles_page.has_previous() %}
+  <li rel="prev">
+    {% if articles_page.previous_page_number() == 1 %}
+    <a href="{{ SITEURL }}/{{ page_name }}.html">
+      &lsaquo; Newer
+    </a>
+    {% else %}
+    <a href="{{ SITEURL }}/{{ page_name }}{{ articles_page.previous_page_number() }}.html">
+      &lsaquo; Newer
+    </a>
+    {% endif %}
+  </li>
+  {% endif %}
+  {% for page_num in range(1, articles_paginator.num_pages) %}
+  <li {% if page_num == articles_page.number %} class="selected"{% endif %}>
+    <a href="{{ SITEURL }}/{{ page_name }}{{ page_num }}.html">{{ page_num }}</a>
+  </li>
+  {% endfor %}
+  {% if articles_page.has_next() %}
+  <li>
+    <a href="{{ SITEURL }}/{{ page_name }}{{ articles_page.next_page_number() }}.html">&raquo;</a>
+  </li>
+    {% endif %}
+</p>
+{% endif %}

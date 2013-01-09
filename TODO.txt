@@ -1,0 +1,9 @@
+Bugs:
+* related posts deduping (some articles show the same related post repeatedly)
+* look into the multiple author pages for paul-craciunoiu*
+
+Enhancements:
+* use publishconf.py or delete it
+* auto-update upon commit
+* fixed sidebar layout, including contact info, the list and resume, and feeds link (/feeds/all.atom.xml)
+* look into using LaTex and convert _old_posts to the new format.
