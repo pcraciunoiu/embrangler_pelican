@@ -4,6 +4,7 @@ Bugs:
 
 Enhancements:
 * use publishconf.py or delete it
+* add hooks.php to git and store password elsewhere
 * auto-update upon commit
 * get rid of the output warning for same title posts
 * fixed sidebar layout, including contact info, the list and resume, and feeds link (/feeds/all.atom.xml)
