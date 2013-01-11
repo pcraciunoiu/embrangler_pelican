@@ -3,7 +3,7 @@ Date: 2012-12-30 21:48
 Tags: resolution, future, success, happiness
 Summary: How did 2012 go, and what my goals are for 2013.
 
-Sooo... the end of the world didn't happen. Continuing the 2010-initiated tradition, here are my thoughts on 2012 and moving forward.
+Sooo... the end of the world didn't happen. Continuing the 2010-initiated tradition, here are my thoughts on 2012 and beyond.
 
 Table of contents:
 
@@ -13,7 +13,6 @@ Table of contents:
     1. [2011.2 Take more risks](#20112-take-more-risks)
     1. [2011.3 Take more steps back, think ahead](#20113-take-more-steps-back-think-ahead)
     1. [2011.4 Use the power of choice](#20114-use-the-power-of-choice)
-1. [Thanks, previous year!](#thanks-previous-year)
     1. [2012.1 Improve social life](#20121-improve-social-life)
     1. [2012.2 Eat less meat](#20122-eat-less-meat)
     1. [2012.3 Develop management/leadership skills](#20123-develop-managementleadership-skills)
@@ -36,7 +35,7 @@ I [wrote a similar post](/2012/01/belated-birthday-resolutions/) after my last b
 
 ## Thanks, previous years!
 
-Here's what I goals I focused on achieving for 2012 in my last entry:
+Here's what goals I focused on achieving for 2012 in my last entry:
 
 1. Improve social life
 2. Eat less meat
@@ -65,7 +64,7 @@ I've also met lots of founders trying to change the (web-)world in lots of diffe
 
 But my gut feeling is that I still don't get what I am most the passionate about. Kind of a carry-over. I guess understanding one's place in the world is not exactly a one-year kinda goal.
 
-I am re-concluding that the main reason I'm not doing well with this is that I'm not comitting much time to the web as a social medium. To mediate that, I'm setting a goal for further involvement in the coding world, and more blogging.
+I am re-concluding that the main reason I'm not doing well with this is that I'm not comitting much time to the web as a social medium. To mediate that, I'm setting a goal for more involvement in the coding world, and more blogging.
 
 ### 2011.2 Take more risks
 
@@ -79,8 +78,8 @@ Great. Can do even more to get out of my comfort zone. For 2012, taking more ris
 
 More details:
 
-1. I decided to leave my startup behind (SoWink), and move on to a different startup, as an early engineer instead of a founder. My long-term goals are to try things out on my own, and I am enjoying the opportunity to handle those at Humble Bundle. I am looking to learn more about building a product, prioritizing, organizing and generally keeping things running smoothly. Balancing engineering with product is something I will continually improve going forward.
-2. Being serious about rock climbing, dancing, kiteboarding and snowboarding is a something I am very proud of. The risks involved here are primarily physical. And it may not seem related, but the ramifications of taking on physical risks as well as career risks are very much relevant. My confidence and ability to understand things for how they are has gone that much further. I also took some emotional risks this year and I am looking to take more risks on all levels, going forward.
+1. I decided to leave my startup behind (SoWink), and move on to a different startup, as an early engineer instead of a founder. My long-term goals are to try things out on my own, and I am enjoying the opportunity to handle those at Humble Bundle. I am looking to learn more about building a product, prioritizing, organizing and generally keeping things running smoothly. Balancing engineering with product is something I will continually improve.
+2. Being serious about rock climbing, dancing, kiteboarding and snowboarding is a something I am very proud of. The risks involved here are primarily physical. And it may not seem related, but the ramifications of taking on physical risks as well as career risks are very much relevant. My confidence and ability to understand things for how they are has gone that much further. I also took some emotional risks this year and I am looking to take more risks on all levels.
 
 Learning from one's risks, turns out, can come much later. I am still learning from the risks I took in 2011.
 
@@ -89,18 +88,20 @@ Learning from one's risks, turns out, can come much later. I am still learning f
 __2011 Grade: B__<br>
 __2012 Grade: B__
 
-I'm about as happy with my performance of my time perspective as I was before. I still want to think further ahead. I would almost say __B+__, but that would be mostly to make myself feel better.
+I'm about as happy with my performance of my time perspective as I was before. I still want to think further ahead. I would almost say __B+__, but that would be to make myself feel better.
 
 Really, the reasons I am not an A here are:
+
 * I do not have much of an idea what I want to do in the next few years.
 * I don't plan ahead more than a few months, and even that pretty rarely.
 * I do not keep good track of where my time goes.
 
 The positives are:
+
 * I adapt very well to a change in schedule.
-* I commit to sticking to hobbies going forward (dancing, rock climbing, board skills).
+* I commit to sticking to hobbies (dancing, rock climbing, board skills).
 * I often stop to think about what is important in life.
-* Career-wise, I have been very focused on moving forward and finding fulfillment.
+* Career-wise, I have been very focused on learning and finding fulfillment.
 
 ### 2011.4 Use the power of choice
 
@@ -110,7 +111,7 @@ __2012 Grade: A__
 I have been proactive about my choices. The main challenge here has been dealing with increasing responsibilities (moving several times, taking on many hobbies and increasing workload at the same time). All-in-all I should be heading towards an __A+__, but that's not happened yet for two reasons:
 
 * getting more organized
-* reminding myself how POWERFUL choice really is. It's life-changing.
+* reminding myself how __powerful__ choice really is. It's life-changing.
 
 ### 2012.1 Improve social life
 
@@ -118,7 +119,7 @@ __Grade: A-__
 
 I would go as far as saying that I have found a home this year. Moving to San Francisco, meeting a large number of people, and making regular friends. I am still missing more friends (though that's probably because I'm such a social butterfly), and I've been proactive about making more.
 
-A new approach, going forward, is to determine more hobbies for myself and get into communities that will automatically turn into friends. Examples include kiteboarding meetups, yoga groups, and some relaxed activities perhaps. More on this below.
+A new approach is to determine more hobbies for myself and get into communities that will automatically turn into friends. Examples include kiteboarding meetups, yoga groups, and some relaxed activities perhaps. More on this below.
 
 ### 2012.2 Eat less meat
 
@@ -133,16 +134,18 @@ After trying this out and somewhat succeeding, I'm debating whether my goal shou
 __Grade: B__
 
 Part of this was given due to my job. Working at a small startup inevitably involves:
+
 * taking point on new challenges
 * taking ownership of aspects of a product
 * constantly improving internal processes as the team and product grow
 * understanding of scalability and performance
 
 Most of what I could do better here revolves around:
+
 * understanding priorities for a product
 * being more confident in technical product decision
 * doing more pair programming and team building
-* focus A LOT more on what innovation and skills I can bring to the table to really make the product and team shine
+* focus __much__ more on what innovation and skills I can bring to the table to really make the product and team shine
 
 ### 2012.4 Learn about emerging markets and ideas
 
@@ -150,11 +153,11 @@ __Grade: A-__
 
 In a larger sense, the goal here is to be more organized and keep up to date with the reading I have. However, I met many people working in different markets. While most of them had to do with technology, I've been monitoring what's "hot" more carefully than in the past.
 
-Going forward, I am looking to stay on top of my readings better, and be more consistent about keeping up with into the economy, money, markets and new products.
+I am looking to stay on top of my readings better, and be more consistent about keeping up with into the economy, money, markets and new products.
 
 ## What now?
 
-This year had some interesting goals. I will keep working on them. But I'd also like to add a few more new ones for 2013.
+This year had some interesting goals. I will keep working on them. Higher priorities, however, go to a few new ones for 2013.
 
 1. [Regular body strengthening and stretching](#regular-body-strengthening-and-stretching)
 1. [Travel and unwind](#travel-and-unwind)
@@ -166,7 +169,7 @@ This year had some interesting goals. I will keep working on them. But I'd also 
 
 In 2012 I've taken on exercising more seriously. This has brought up important points about the strengths and weaknesses of my body. I've been sore and hurt a few times. Nothing out of the ordinary, but I wouldn't mind being generally more athletic. Making it an official goal should help!
 
-Several of the following would be good:
+The following would be good:
 
 * Yoga and regular streching (morning/evening routines)
 * Muscle strengthening (e.g. through rock climbing, running, board sports, gym, etc)
@@ -183,7 +186,7 @@ I am also big on travel, and 2012 was not a highly traveled year for me. As such
 * Spend regular time reflecting, alone and with others. At least 2-3 hours a week would be good.
 * Travel to Europe, at the very least visit Romania for 2 weeks.
 * Ideally, explore countries that are more significantly different than my past visits. Examples include South America, the Mediterranean, the Netherlands, etc.
-* Take some time off to unwind and think about the future (next 2-5 years). This includes taking at least 2 4-day vacations.
+* Take some time off to unwind and think about the future (next 2-5 years). This includes taking at least two 4-day vacations.
 
 __Ultimate goal:__ to become more aware of the limitations of time, how much I can achieve, and understand myself better. Also, to relax and focus on what is truly meaningful and fulfilling for my life. Exposure to different cultures and countries would help enlighten my life path.
 
@@ -198,6 +201,7 @@ The idea here is similar to the [Paleo diet](http://en.wikipedia.org/wiki/Paleol
 __Yes:__
 
 * grass-fed, pasture raised meats
+* eggs and dairy from pasture raised animals
 * vegetables
 * fruit
 * mushrooms
@@ -228,22 +232,25 @@ Concretely:
 	* self-growth
 	* emerging markets
 	* economy, investing, finance
+* contribute more open-source projects and write about them
+    * liberate code from the [Humble Bundle codebase](https://github.com/humble)
+    * continue to maintain relevant current projects
 
-__Ultimate goal:__ promote reflection and self-growth, explore further interests and sharpen my current abilities. Also, reading is fun!
+__Ultimate goal:__ promote reflection and self-growth, explore interests and sharpen my current abilities. Also, reading is fun!
 
 ### Take point/responsibility and lead something
 
-After trying my luck at leading a company, I have gotten the taste for leadership and responsibility. I am excited about exploring this further. As my interest persists, I aim for the next few years to become more about communication, collaboration and pushing my comfort zone towards developing a product and play an important role in leading a project. As such, I challenge myself to:
+After trying my luck at leading a company, I have gotten the taste for leadership and responsibility. I am excited about exploring this. As my interest persists, I aim for the next few years to become more about communication, collaboration and pushing my comfort zone towards developing a product and playing an important role in leading a project. As such, I challenge myself to:
 
 * at work, lead some (uncomfortable) part of a project
 * in my personal life, find a new activity, hobby, destination or passion on my own and stick with it
 
 One of the habits I exercise often is trying out new things. This year, I hope to find a new hobby. Of course, while I am doing this, I intend to keep kiteboarding, snowboarding, dancing and rock climbing at my best ability. I am interested in seeing how these hobbies will develop over time as new ones come by.
 
-__Ultimate goal:__ Become more comfortable and empowered to drive forward on my own. Grow my personal life and career into new territories that interest me.
+__Ultimate goal:__ Become more comfortable and empowered on my own. Grow my personal life and career into new territories that interest me.
 
 ## Onward, I say!
 
 Around next new year, I will report back.
 
-Thank you all who contributed to my life in 2012. It has been a wonderful ride with lots of new, exciting friends and enligthtening choices and promising future possibilities!
+Thank you all who contributed to my life in 2012. It has been a wonderful ride with lots of new, exciting friends, enligthtening choices and promising future possibilities!
