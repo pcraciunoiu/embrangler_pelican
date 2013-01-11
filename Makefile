@@ -36,8 +36,14 @@ help:
 	@echo '                                                                       '
 
 
-html: clean $(OUTPUTDIR)/index.html
+html: prep1 clean $(OUTPUTDIR)/index.html prep2
 	@echo 'Done'
+
+prep1:
+	mv $(OUTPUTDIR)/README.md README.md_bkp
+
+prep2:
+	mv README.md_bkp $(OUTPUTDIR)/README.md
 
 $(OUTPUTDIR)/%.html:
 	cp -r $(BASEDIR)/old_content/* $(OUTPUTDIR)/
