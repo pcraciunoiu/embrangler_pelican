@@ -32,6 +32,7 @@ Performance increase. Avoiding database queries when they're unnecessary. Make y
 What can you do or cannot do with this approach?
 
 *Pros:*
+
 * Easy to set which views are cached from Django
 * Flag for turning on and off
 * Page versioning, so you can cache multiple versions for the same page, based on your own criteria
@@ -39,6 +40,7 @@ What can you do or cannot do with this approach?
 * Significant speedup versus loading with Django (more below).
 
 *Cons:*
+
 * Can only cache entire page at a time (though more research may show otherwise)
 * No auto-invalidate from Django, until user visits some non-cached page (though possible to clear this cache when updating your codebase with a commit hook).
 * Can no longer embed forms on that page unless CSRF is obtained through JS.
