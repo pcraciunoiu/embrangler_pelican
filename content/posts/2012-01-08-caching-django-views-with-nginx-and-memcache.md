@@ -19,6 +19,8 @@ Time: 12:30AM
 
 ## Summary
 
+__Update:__ Steve Jalim has kindly continued my work on this [over at the torchbox GitHub](https://github.com/torchbox/django-nginx-memcache).
+
 I wanted a way to increase performance for some of our static pages. One way to do this is to cache Django pages somewhere, and serve that content from earlier on the request pipe.
 
 A simple approach is having [nginx](http://nginx.org/en/) grab the page directly from memcache, without touching Django at all. Enter [nginx_memcache](https://github.com/pcraciunoiu/django-nginx-memcache).
