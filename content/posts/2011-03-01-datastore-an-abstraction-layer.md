@@ -91,7 +91,7 @@ Example usage:
 
 `ajax.data` and `value` are actually very similar, with an important exception in most applications (e.g. Django): the csrftoken. We don't need to store that in localStorage for every request. So I chose to keep the two completely separate. You could subclass DataStore and make it save you this extra work per request.
 
-Below is an example implementation ([raw file](/files/code/datastore/datastore.js)):
+Below is an example implementation ([raw file](/static/files/code/datastore/datastore.js)):
 
 	#!javascript
 	/* This depends on Crockford's json2.js

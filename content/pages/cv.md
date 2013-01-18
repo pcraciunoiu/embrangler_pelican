@@ -7,7 +7,7 @@ Paul Craciunoiu
 
 paul {at} craciunoiu {dot} net
 
-[PDF Version](/files/resume.pdf)
+[PDF Version](/static/files/resume.pdf)
 
 <a href='http://vizualize.me/ObD7QOQisO?r=ObD7QOQisO' title="Paul Craciunoiu's infographic CV on vizualize.me"><img src='http://vizualize.me/media/img/socialicons/viewmyviz.png'/></a>
 
