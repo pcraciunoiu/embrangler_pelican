@@ -39,7 +39,7 @@ But what could we do instead of consuming so much entertainment in our leisure t
 
 > In a large-scale study in Germany, it was found that the more often people report reading books, the more flow experiences they claim to have, while the opposite trend was found for watching television. The most flow was reported by individuals who read a lot and watched little TV, the least by those who read seldom and watched often.
 
-With such consumerist habits, it is more difficult to bond with peers over engaging conversation. What could laughing about the latest TV-show or debating about the newest tech gadget do for creating a deep connection between two people? Is it the same as exchanging opinition on a thought-provoking book? Doubtful. I daresay people generally have fewer close friends now than they used to. Having enough close friends is hugely important for happiness (side note: only 30% of Americans rated themselves as "very happy"):
+With such consumerist habits, it is more difficult to bond with peers over engaging conversation. What could laughing about the latest TV-show or debating about the newest tech gadget do for creating a deep connection between two people? Is it the same as exchanging opinions on a thought-provoking book? Doubtful. I daresay people generally have fewer close friends now than they used to. Having enough close friends is hugely important for happiness (side note: only 30% of Americans rated themselves as "very happy"):
 
 > National surveys find that when someone claims to have five or more friends with whom they can discuss important problems, they are 60 percent more likely to say that they are "very happy."
 
