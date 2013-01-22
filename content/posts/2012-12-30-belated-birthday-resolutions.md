@@ -79,7 +79,7 @@ Great. Can do even more to get out of my comfort zone. For 2012, taking more ris
 More details:
 
 1. I decided to leave my startup behind (SoWink), and move on to a different startup, as an early engineer instead of a founder. My long-term goals are to try things out on my own, and I am enjoying the opportunity to handle those at Humble Bundle. I am looking to learn more about building a product, prioritizing, organizing and generally keeping things running smoothly. Balancing engineering with product is something I will continually improve.
-2. Being serious about rock climbing, dancing, kiteboarding and snowboarding is a something I am very proud of. The risks involved here are primarily physical. And it may not seem related, but the ramifications of taking on physical risks as well as career risks are very much relevant. My confidence and ability to understand things for how they are has gone that much further. I also took some emotional risks this year and I am looking to take more risks on all levels.
+2. Being serious about rock climbing, dancing, kiteboarding and snowboarding is something I am very proud of. The risks involved here are primarily physical. And it may not seem related, but the ramifications of taking on physical risks as well as career risks are very much relevant. My confidence and ability to understand things for how they are has gone that much further. I also took some emotional risks this year and I am looking to take more risks on all levels.
 
 Learning from one's risks, turns out, can come much later. I am still learning from the risks I took in 2011.
 
