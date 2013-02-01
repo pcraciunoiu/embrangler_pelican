@@ -25,13 +25,13 @@ It all has to do with focusing our attention. With a certain kind of control (a 
 
 ## Appreciation leads to a better career
 
-If you think leading a successful life follows a selfish path, keep on reading. These thoughts have caused me to reconsider my approach to job satisfaction and success. Not to sound naive, but is it possible that making an effort to actively reduce stress and incraese appreciation at work will automatically result in a better career? In addition to being intrinsically rewarding, of course.
+If you think leading a successful life follows a selfish path, keep on reading. These thoughts have caused me to reconsider my approach to job satisfaction and success. Not to sound naive, but is it possible that making an effort to actively reduce stress and increase appreciation at work will automatically result in a better career? In addition to being intrinsically rewarding, of course.
 
 > For instance, when there is reason to think that we are appreciated, job satisfaction is usually high; whereas the greatest source of stress in the workplace is the feeling that no one is interested in supporting our goals. [...] The roots of interpersonal conflict are often an excessive concern for oneself, and an inability to pay attention to the needs of others. It is sad to see how often people ruin a relationship because they refuse to recognize that they could serve their own interests best by helping others achieve theirs.
 
 There are certainly the stereotypes. Perhaps the financial sector, the kill-or-be-killed, bring-the-biggest-clients-in ruthless competition of meritocracy. What about those as a path to success? Well, that is but one kind of success&mdash;and what good is success if you cannot enjoy it?
 
-> In American corporate culture, the hero is a ruthlesss, competitive person with a huge ego. Unfortunately some top entrepreneurs and CEOs do conform to that image. Yet it is also reassuring that aggressive selfishness is not the only path to success. In fact in most stable and well-run companies, leaders try to promoet subordinates who don't invest all of their psychic energy in self-advancement, but use some of it to advance corporate goals. They know that if top management is filled with greedy egotists the company will eventually suffer for it.
+> In American corporate culture, the hero is a ruthless, competitive person with a huge ego. Unfortunately some top entrepreneurs and CEOs do conform to that image. Yet it is also reassuring that aggressive selfishness is not the only path to success. In fact in most stable and well-run companies, leaders try to promote subordinates who don't invest all of their psychic energy in self-advancement, but use some of it to advance corporate goals. They know that if top management is filled with greedy egotists the company will eventually suffer for it.
 
 Fascinating, being overly-driven can be bad for you. I don't often think about this, but it is as obvious as it is counterintuitive:
 
@@ -65,9 +65,9 @@ Direct your attention towards a good cause. You will not regret it. You know tho
 
 ### Stop and reflect when things are going well
 
-Seriously. Often, when we are doing well, we want to keep going and forget to recognize our achivements.
+Seriously. Often, when we are doing well, we want to keep going and forget to recognize our achievements.
 
-> Most people only think about themselves when things are not going well, and thereby they enter a vicious circle in which present anxiety colors the past, and then the painful memories make the present even more bleak. One way to break out iof this circle is to develop the habit of reflecting on one's life when there is reason to feel good about it, when one is in an upbeat mood. But it is even better to invest psychic energy in goals and relationships that bring harmony to the self indirectly. After experiencing flow in a complex interaction, the feedback is concrete and objective, and we feel better about ourselves without having had to try.
+> Most people only think about themselves when things are not going well, and thereby they enter a vicious circle in which present anxiety colors the past, and then the painful memories make the present even more bleak. One way to break out of this circle is to develop the habit of reflecting on one's life when there is reason to feel good about it, when one is in an upbeat mood. But it is even better to invest psychic energy in goals and relationships that bring harmony to the self indirectly. After experiencing flow in a complex interaction, the feedback is concrete and objective, and we feel better about ourselves without having had to try.
 >
 > In order to experience flow, it helps to have clear goals&mdash;not because it is achieving the goals that is necessarily important, but because without a goal it is difficult to concentrate and avoid distractions. Thus a mountain climber sets as a goal to reach the summit not because she has some deep desire to reach it, but because the goal makes the experience of climbing possible. If it were not for the summit, the climb would become pointless ambling that leaves one restless and apathetic.
 
