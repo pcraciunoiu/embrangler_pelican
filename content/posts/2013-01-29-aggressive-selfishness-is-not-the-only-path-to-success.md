@@ -15,7 +15,7 @@ The great summary is this: direct attention towards the present, choose to do wh
 
 Why do some people experience flow much more than others?
 
-> Some will find such an attitude irresponsible: how can someone afford the self-indulgence of doing only what he likes to do? But the point is that Pauling&mdash;and the many others who share his attitude&mdash;like to do almost everything, no matter how difficult or trivial, including the things they are forced to do. the only thing they definitely don't like is wasting time. So it is not that their life is objectively better than yours or mine, but that their enthusiasm for it is such that most of what they do ends up providing them with flow experiences.
+> Some will find such an attitude irresponsible: how can someone afford the self-indulgence of doing only what he likes to do? But the point is that Pauling&mdash;and the many others who share his attitude&mdash;like to do almost everything, no matter how difficult or trivial, including the things they are forced to do. The only thing they definitely don't like is wasting time. So it is not that their life is objectively better than yours or mine, but that their enthusiasm for it is such that most of what they do ends up providing them with flow experiences.
 
 It all has to do with focusing our attention. With a certain kind of control (a sort of trapped form, as we'll see later). It turns out that purely paying more attention increases our enjoyment:
 
