@@ -13,7 +13,7 @@ I can't stress enough how important it is to let oneself feel. I think back to m
 
 The answer is going to sound obvious.
 
-(Western) Adulthood.
+__(Western) Adulthood.__
 
 I *happened* to move at the time when college starts, when people are busier, and we all become more and more burdened by the pragmatic aspects of life: career, what will I do? College, what should I study? Money? My individual personality? My values?
 
@@ -29,4 +29,4 @@ We can create a better world.
 
 > To create is to make something that has never existed before. There is nothing more vulnerable than that.
 >
-> __&mdash;Brené Brown
+> *&mdash;Brené Brown*
