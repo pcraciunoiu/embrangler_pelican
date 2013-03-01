@@ -28,3 +28,11 @@ For example, how much should you care about the present? Ever wonder why you are
 I for one will continue thinking about how to enjoy my life more, be more present, relax about the future, and how time really affects my day to day life and long-term decisions. There is much insight to be had, and much awareness about my behavior and expectations.
 
 To quickly end with a note on time and perspective, inspired by an answer I read on Quora<sup>[link needed]</sup>, I recently received a gift book made by someone very dear to me, in which each page is divided into boxes. Each box represents a month of my life. For a page with 60 boxes, you would only need 18 pages for a life of 90 years, birth to death. Think about it.
+
+<div class="img-wrap"><div class="img">
+  <img alt="Time Book Open" src="/static/images/2013/time_book_open.jpg" title="Time Book Open">
+</div></div>
+
+<div class="img-wrap"><div class="img">
+  <img alt="Time Book Closed" src="/static/images/2013/time_book_closed.jpg" title="Time Book Closed">
+</div></div>
