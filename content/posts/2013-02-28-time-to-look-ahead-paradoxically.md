@@ -5,6 +5,10 @@ Summary: Looking ahead through a book I received as a present, and Time Paradox,
 
 Barely on time for [my monthly book promise](/2012/12/belated-birthday-resolutions/#write-and-read-more), here's February's entry.
 
+<div class="img-wrap"><div class="img">
+  <img alt="Time Book Closed" src="/static/images/2013/time_book_closed.jpg" title="Time Book Closed">
+</div></div>
+
 Last month I [wrote about Finding flow](/2013/01/aggressive-selfishness-is-not-the-only-path-to-success/), a great book on the quality of life correlated to being present and challenged to do something one is skilled at.
 
 On a sort of related note, this month I've been reading [The Time Paradox](http://www.amazon.com/The-Time-Paradox-Psychology-Change/dp/1416541993/ref=sr_1_1?ie=UTF8&qid=1362117393&sr=8-1), by Philip Zimbardo & John Boyd. Fragment:
@@ -31,8 +35,4 @@ To quickly end with a note on time and perspective, inspired by an answer I read
 
 <div class="img-wrap"><div class="img">
   <img alt="Time Book Open" src="/static/images/2013/time_book_open.jpg" title="Time Book Open">
-</div></div>
-
-<div class="img-wrap"><div class="img">
-  <img alt="Time Book Closed" src="/static/images/2013/time_book_closed.jpg" title="Time Book Closed">
 </div></div>
