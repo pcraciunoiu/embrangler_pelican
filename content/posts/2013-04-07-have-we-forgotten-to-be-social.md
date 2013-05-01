@@ -1,7 +1,7 @@
 Title: Have we forgotten to be social?
 Date: 2013-04-07 21:21
 Tags: reading, happiness
-Summary: It's 2013 and what we value seems more superficial than ever.
+Summary: It's 2013 and we value numbers. That seems more superficial than ever.
 
 We measure and consume everything. We quantify and track. <strong>Numbers are key.</strong> That seems like a good thing. What could be wrong with it?
 
