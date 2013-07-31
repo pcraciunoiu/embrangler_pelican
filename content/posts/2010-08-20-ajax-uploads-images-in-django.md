@@ -1,6 +1,7 @@
 Title: Django and AJAX image uploads
 Summary: How to upload images in django through AJAX, with graceful degradation and a smooth UI.
 Tags: mozilla, webdev, django, upload, ajax, SUMO
+Slug: ajax-uploads-images-in-django
 
 Table of contents:
 
