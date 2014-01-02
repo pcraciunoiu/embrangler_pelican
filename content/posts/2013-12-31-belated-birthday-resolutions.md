@@ -71,7 +71,7 @@ In the second half of the year I spent much more time reflecting than in the fir
 
 I've been thinking about the future (next 2-5 years) orders of magnitude more than I hoped and expected. So much so that I experienced a time of stress realizing I don't really know how to make the most of the _paths_ I'm currently on. I'm extremely excited (almost an understatement!) about this year for many reasons: my career could take some interesting turns, my hobbies are becoming more advanced and specialized, and my personal development is accelerating.
 
-I'm so happy with this year for all the travel and growth! I actually set out to understand the limitations of time, and I believe I'm finally getting there. I've taken on so many things that I have a much better sense of how much I can make a habit versus what's an occasional hobby. More on that later [XXX]
+I'm so happy with this year for all the travel and growth! I actually set out to understand the limitations of time, and I believe I'm finally getting there. I've taken on so many things that I have a much better sense of how much I can make a habit versus what's an occasional hobby.
 
 ### 3. Avoid processed foods
 
