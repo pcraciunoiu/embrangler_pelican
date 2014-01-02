@@ -64,7 +64,7 @@ If in 2012 I barely traveled, yet in 2013 I traveled more than ever before.
 
 * The Big Island of Hawaii, with amazing experiences that have humbled me (read: volcano, manta rays).
 * I took my girl to Romania (Bucharest and Constanta), and we also visited 5 other locations: New York, Venice, Paris, Berlin, Amsterdam, including a former Jewish camp on the way to Amsterdam.
-* Boston to visit my brother, where I lead my first outdoor climbing routes, hiked, ate amazing vegan food and caught up with my awesome brother.
+* Boston, where I lead my first outdoor climbing routes, hiked, ate amazing vegan food and caught up with my awesome brother.
 * The Philippines, where I spent most of the time kiteboarding and a bit less hiking through unfamiliar territory.
 
 In the second half of the year I spent much more time reflecting than in the first. I daresay the first half of the year was at most 1 hour a week of reflecting, whereas the second was more like 2-4 hours a week. It would have been better to do a bit more of that in the first half, but all in all I'm happy with the perspective I've gained this year.
