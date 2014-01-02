@@ -167,7 +167,7 @@ __Ultimate goal:__ Become a decision and thought leader. Create change in myself
 
 ### Develop several exercise routines
 
-I will continue: rock climbing, dancing, kiteboarding, snowboarding and yoga.
+I will continue: rock climbing, dancing, kiteboarding, snowboarding, biking and yoga.
 
 This year I've doing the [7-minute workout](http://www.7-min.com/) and really enjoying it. I'd like to add to that so I develop strength and balance in other ways.
 
