@@ -24,7 +24,7 @@ BLOG_DESCRIPTION = 'The personal and professional blog of Paul Craciunoiu, gener
 PLUGINS = []
 
 # Article settings
-ARTICLE_DIR = 'posts/'
+ARTICLE_PATHS = ['posts/']
 ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
 
@@ -53,9 +53,6 @@ MARKUP = 'md'
 MD_EXTENSIONS = ['headerid', 'codehilite']
 
 STATIC_PATHS = ['images', 'files']
-FILES_TO_COPY = (
-  ('favicon.ico', 'favicon.ico'),
-)
 
 # default value is ('index', 'tags', 'categories', 'archives')
 DIRECT_TEMPLATES = ('index', 'tags', 'sitemap')
@@ -63,5 +60,6 @@ SITEMAP_SAVE_AS = 'sitemap.xml'
 
 
 # Related posts
-from pelican.plugins import related_posts
-PLUGINS.append(related_posts)
+PLUGINS.append('plugins.related_posts')
+
+
