@@ -3,8 +3,6 @@ Summary: A CTO's viewpoint of SoWink's failure as a young company.
 Tags: sowink, startup, entrepreneurship, failure
 Time: 9:26PM
 
-This is the first post of a series of lessons and stories from doing my first company, SoWink Inc.
-
 _Thanks to several SoWink team members for reviewing this post and providing valuable feedback._
 
 ## Recap

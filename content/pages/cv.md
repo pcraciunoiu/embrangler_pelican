@@ -15,18 +15,34 @@ paul {at} craciunoiu {dot} net
 Work Experience
 ===============
 
+Software Engineer and Junior PM, March 2013
+---------------------------
+[Minerva Project](http://www.minervaproject.com/)
+
+* Engineer #4
+* Learned to build single-page web applications
+	* A Clojure then Django backend
+	* Using grunt, jQuery, Backbone and Marionette for the front-end
+* Implemented prototype for websocket backend in python
+* Stepped up to create and lead the [Minerva Admissions Website](https://minerva.kgi.edu/)
+	* Beginnings of product management, sketching, wireframes and requirements documents
+	* Technical lead and often solo engineer, using Django and AWS backend
+	* Tackled challenging problems with extremely tight deadlines
+	* Implemented security and encryption of student data
+	* [More here](/pitch/#i-can-efficiently-deliver-on-tight-deadlines)
+
 Software Engineer, Feb 2012
 ---------------------------
 [Humble Bundle](http://humblebundle.com)
 
-* Joining company early as engineer #3
+* Engineer #3
 * Working in a fun and stimulating environment
 * Programming with Google App Engine, python and Android
 * Focus on creating an awesome codebase overall
 
 CTO and founder, Feb 2011 - Jan 2012
 ------------------------------------
-[SoWink Inc.](http://sowink.com)
+SoWink Inc.
 
 * Fast-changing environment, direct involvement with every aspect of running a company
 * Devise product vision, company culture and priorities with founding team

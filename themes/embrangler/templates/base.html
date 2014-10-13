@@ -45,9 +45,14 @@
         <a class="the-list" href="/list">(The List)</a>
       </h2>
     </div>
-    {# <div id="promo">
-        <a href="http://humblebundle.com/jobs">Want to join a very exciting startup? Humble Bundle is hiring! Check out our job descriptions &raquo;</a>
-    </div> #}
+    {% if page and page.ispromo %}
+    {% else %}
+    <div id="promo">
+        <a href="/pitch" class="content">
+        Work with me &raquo;</a>
+        <a href="#" class="close">&#x2717;</a>
+    </div>
+    {% endif %}
 
     <div id="content" role="main">
       {% block content_top %}{% endblock %}

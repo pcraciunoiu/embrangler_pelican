@@ -346,21 +346,30 @@ pre code {
     padding-top: 2px;
     position: fixed;
     left: 0;
+    font-size: 120%;
     text-align: center;
     top: 0;
     width: 100%;
+    height: 1.7em;
 }
 #promo.notop {
-    background: rgba(252, 197, 87, 0.75);
+    background: rgba(252, 197, 87, 0.85);
 }
 #promo a {
     color: #444;
-    line-height: 1em;
-    margin: .3em 0;
+    line-height: 1.4em;
 }
 #promo a:hover {
     border-bottom: none;
     color: #444;
     text-decoration: underline;
+}
+#promo.notop a.content {
+    font-style: italic;
+}
+#promo .close {
+    font-style: normal;
+    position: absolute;
+    right: 10px;
 }
 /* End promo box */

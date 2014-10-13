@@ -17,7 +17,7 @@
       {% if article.tags %}
       <div class="tags">Tags:
         {% for tag in article.tags %}
-          <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>{% if not loop.last %},
+          <a href="/{{ tag.url }}">{{ tag }}</a>{% if not loop.last %},
           {% endif %}
         {% endfor %}
       </div>
@@ -32,7 +32,7 @@
     <h2>Related Posts</h2>
     <ul>
       {% for related_post in article.related_posts %}
-        <li><a href="{{ SITEURL }}/{{ related_post.url }}">{{ related_post.title }}</a> &mdash; {{ related_post.locale_date }}</li>
+        <li><a href="/{{ related_post.url }}">{{ related_post.title }}</a> &mdash; {{ related_post.locale_date }}</li>
       {% endfor %}
     </ul>
   </div>
