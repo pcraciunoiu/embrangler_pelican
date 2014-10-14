@@ -146,7 +146,7 @@ This proved to be a heavily cross-team, tight-deadline project with an initial l
 	* Enabling applicants from China to view and submit applications
 	* Optimizing load times for locations around the world
 * Sharpening my product management skills
-	* Working cosely with head of Admissions Operations
+	* Working closely with head of Admissions Operations
 	* Gathering and writing requirements
 	* Sketching product roadmap and quarterly goals
 	* Creating wireframes for review by our lead UX designer
@@ -215,17 +215,17 @@ Anyone who knows me well can testify that I am a positive, energetic, driven ind
 
 In addition to the above, I value:
 
-* Integrity and honesty, because inner conflict and lies eat away at our life energy.
+* Integrity and honesty, because inner conflict and lies eat away at oneself and the organization.
 * Openness and transparency, because when we hide things, we usually do so out of fear. Do we really want to build a company driven by fear, as if people were animals?
 * Directness in communication, because clear communication is key to successful teamwork.
-* Compassion and kindness, because we all have rough days. We live in an "us" world, not an "us VS they" one
+* Compassion and kindness, because we all have rough days. We live in an "us" world, not an "us VS they" one.
 * Doing the best quality work that I can do (this may be the single, largest reason I would stay with or leave a company).
 * Taking chances, because without risk there can be no reward. The only risk-free paths have already been well traveled.
 
 ## Hobbies
 
-My hobbies are centered around physical and mental fitness, as well as increasing focus and overcoming limiting beliefs by expanding my comfort zone. In many ways, they are about bringing mind, body and soul closer together.
-
+I highly value physical and mental fitness, as well as increased focus and overcoming limiting beliefs by expanding my comfort zone. This brings my mind and body closer together.
+ 
 Current top ways I like to spend my time:
 
 * Meditation
