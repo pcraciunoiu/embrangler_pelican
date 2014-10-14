@@ -52,9 +52,9 @@ In high school, I participated in local and national programming competitions an
 
 I got into __web development in college__ and immediately got paid for it. Through college and beyond I:
 
-* worked for Mozilla (mostly, their support site), learning from many experienced folks
+* worked for Mozilla (mostly their support site), learning from many experienced folks
 * started my own company (which lasted about a year)
-* worked for startups (namely, Humble Bundle and Minerva Project)
+* worked for startups (namely Humble Bundle and Minerva Project)
 
 These are just some of the technologies I'm familiar with. Don't worry, I learn new ones quickly and frequently.
 
@@ -160,14 +160,14 @@ This proved to be a heavily cross-team, tight-deadline project with an initial l
 ### Have worked as a solo engineer or in a team
 
 * Created reusable projects on my own
-	* Forked and completely revamed [AppEngine Admin](https://github.com/pcraciunoiu/appengine_admin), an admin interface for AppEngine
-	* Wrote and maintained integrating tools around django and Amazon Web Services ([django-ses](https://github.com/hmarr/django-ses), [django-s3-sync](https://github.com/pcraciunoiu/django-s3sync))
+	* Forked and completely revamed [AppEngine Admin](https://github.com/pcraciunoiu/appengine_admin), an admin interface for AppEngine.
+	* Wrote and maintained integrating tools around django and Amazon Web Services ([django-ses](https://github.com/hmarr/django-ses), [django-s3-sync](https://github.com/pcraciunoiu/django-s3sync)).
 * Managed a team of 5
 	* At my startup, integrated people of diverse backgrounds and expertise into one cohesive unit.
 	* In my (obviously biased) opinion, our code quality and processes were some of the most efficient out there. I've yet to work at a job that matched this environment.
 * Worked with external contractors
-	* This is where priorities, consistency and quality of work tends to suffer the most
-	* Learned to evaluate, onboard and delegate with a dynamically changing team, made up of one part-time UX contractor, one part-time in-house engineer, and two part-time external engineering contractors (and changing at various points in time)
+	* This is where priorities, consistency and quality of work tends to suffer the most.
+	* Learned to evaluate, onboard and delegate with a dynamically changing team, made up of one part-time UX contractor, one part-time in-house engineer, and two part-time external engineering contractors (and changing at various points in time).
 
 ### Extensive experience with non-engineering folks
 
@@ -215,11 +215,11 @@ Anyone who knows me well can testify that I am a positive, energetic, driven ind
 
 In addition to the above, I value:
 
-* Integrity and honesty, because inner conflict and lies eat away at our life energy
+* Integrity and honesty, because inner conflict and lies eat away at our life energy.
 * Openness and transparency, because when we hide things, we usually do so out of fear. Do we really want to build a company driven by fear, as if people were animals?
-* Directness in communication, because clear communication is key to successful teamwork
+* Directness in communication, because clear communication is key to successful teamwork.
 * Compassion and kindness, because we all have rough days. We live in an "us" world, not an "us VS they" one
-* Doing the best quality work that I can do (this may be the single, largest reason I would stay with or leave a company)
+* Doing the best quality work that I can do (this may be the single, largest reason I would stay with or leave a company).
 * Taking chances, because without risk there can be no reward. The only risk-free paths have already been well traveled.
 
 ## Hobbies
