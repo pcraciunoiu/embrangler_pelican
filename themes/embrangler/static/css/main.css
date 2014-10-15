@@ -271,7 +271,8 @@ input[type="checkbox"], input[type="radio"] {
   padding-left: 20px;
   padding-right: 20px; }
 
-.header-title {
+.header-title,
+.page-title {
   font-size: 2.33em;
   margin: 8px 0 14px; }
 
@@ -332,9 +333,6 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.2;
   margin-top: 2em; }
 
-.title {
-  margin-top: 0.67em; }
-
 hr {
   border-top: 1px solid #e9e9e9;
   border-bottom: 0; }
@@ -350,6 +348,26 @@ blockquote {
   color: #545454;
   margin-left: 20px;
   padding-left: 20px; }
+
+#post pre {
+  font-family: "Courier New", monospace;
+  border: 1px solid #e9e9e9;
+  border-radius: 4px;
+  background-color: #fafafa;
+  padding: .3em .6em;
+  overflow: auto; }
+
+code {
+  border: 1px solid #e9e9e9;
+  font-family: "Courier New", monospace;
+  background-color: #fafafa;
+  border-radius: 4px;
+  padding: 0.2em 0.3em;
+  overflow: auto; }
+
+pre code {
+  border: none;
+  padding: 0; }
 
 .split-summary > .post > p {
   margin-top: 4px; }
