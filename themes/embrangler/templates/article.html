@@ -12,7 +12,7 @@
 
 {% block content %}
   <div id="post">
-    <h1 class="post-title">{{ article.title }}</h1>
+    <h1 class="page-title post-title">{{ article.title }}</h1>
     <div class="post-meta">
       <time datetime="{{ article.date.isoformat() }}" title="{{ article.date.strftime(DEFAULT_HOVER_DATE_FORMAT) }}">{{ article.locale_date }}</time>
       &ndash;

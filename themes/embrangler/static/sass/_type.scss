@@ -40,10 +40,6 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: 2em;
 }
 
-.title {
-    margin-top: 0.67em;
-}
-
 hr {
     border-top: 1px solid $border;
     border-bottom: 0;
@@ -63,4 +59,28 @@ blockquote {
     color: $gray;
     margin-left: $padding;
     padding-left: $padding;
+}
+
+// Code
+#post pre {
+    font-family: "Courier New", monospace;
+    border: 1px solid $border;
+    border-radius: $border-radius;
+    background-color: $bg-alt;
+    padding: .3em .6em;
+    overflow: auto;
+}
+
+code {
+    border: 1px solid $border;
+    font-family: "Courier New", monospace;
+    background-color: $bg-alt;
+    border-radius: $border-radius;
+    padding: 0.2em 0.3em;
+    overflow: auto;
+}
+
+pre code {
+    border: none;
+    padding: 0;
 }
