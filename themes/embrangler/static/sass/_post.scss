@@ -34,3 +34,28 @@
 #related {
     margin: ($padding * 2) 0;
 }
+
+// Images
+.img-wrap {
+    text-align: center;
+}
+
+.img {
+    background: $bg-alt;
+    border-radius: $border-radius;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+    display: inline-block;
+    padding: 0.6em;
+    margin: 0 auto;
+
+    > img {
+        vertical-align: middle;
+    }
+}
+
+.img div {
+    font-size: .8em;
+    font-style: italic;
+    line-height: 1.33;
+    margin-top: $padding-y;
+}
