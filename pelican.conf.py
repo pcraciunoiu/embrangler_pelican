@@ -52,7 +52,7 @@ THEME = './themes/embrangler/'
 MARKUP = 'md'
 MD_EXTENSIONS = ['headerid', 'codehilite']
 
-STATIC_PATHS = ['static']
+STATIC_PATHS = ['static', 'favicon.ico']
 
 # default value is ('index', 'tags', 'categories', 'archives')
 DIRECT_TEMPLATES = ('index', 'tags', 'sitemap')
