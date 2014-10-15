@@ -1,0 +1,66 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: $font-body;
+    font-size: 1.6em;
+    line-height: $line-height-base;
+}
+
+// Links
+a {
+    color: $primary;
+    text-decoration: none;
+
+    &:hover {
+        color: darken($primary, 10%);
+    }
+
+    &.inverse {
+        color: darken($gray-lighter, 5%);
+        border-bottom: 1px dotted darken($gray-lighter, 5%);
+
+        &:hover {
+            color: darken($gray-lighter, 15%);
+            border-bottom-color:darken($gray-lighter, 15%);
+        }
+    }
+}
+
+.link-hint {
+    border-bottom: 1px dotted darken($gray-lighter, 2.5%);
+}
+
+// Headings
+h1, h2, h3, h4, h5, h6 {
+    font-family: $font-headings;
+    font-weight: normal;
+    line-height: $line-height-headings;
+    margin-top: 2em;
+}
+
+.title {
+    margin-top: 0.67em;
+}
+
+hr {
+    border-top: 1px solid $border;
+    border-bottom: 0;
+}
+
+// Body Copy
+.lead {
+    font-size: 1.2em;
+}
+
+.lead-md {
+    font-size: 1.1em;
+}
+
+blockquote {
+    border-left: 4px solid $border;
+    color: $gray;
+    margin-left: $padding;
+    padding-left: $padding;
+}

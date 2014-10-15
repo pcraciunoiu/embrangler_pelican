@@ -1,0 +1,36 @@
+.post {
+    margin-bottom: $padding;
+}
+
+// Post Header
+.post-title {
+    margin-top: $padding;
+    margin-bottom: $padding-y;
+}
+
+.post-meta,
+.post-footer {
+    color: $muted;
+    font-size: $font-size-sm;
+    text-transform: uppercase;
+}
+
+.post-tags {
+    display: inline-block;
+
+    > a {
+        @extend .link-hint;
+    }
+}
+
+// Post footer
+.post-footer {
+    .more {
+        @extend .link-hint;
+    }
+}
+
+// Related
+#related {
+    margin: ($padding * 2) 0;
+}

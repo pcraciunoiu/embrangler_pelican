@@ -1,0 +1,25 @@
+#footer {
+    background: #333;
+    font-size: $font-size-sm;
+    color: lighten($gray-light, 5%);
+    overflow: hidden;
+    margin-top: $padding * 2;
+    padding: $padding;
+
+    a {
+        @extend .inverse;
+    }
+}
+
+#footer .about > p:first-child {
+    border-bottom: 1px dotted $gray-light;
+    color: #fff;
+    font-size: $font-size-lg;
+    padding-bottom: $padding;
+    margin-bottom: $padding;
+}
+
+#footer .quote {
+    margin-top: $padding * 2;
+    text-align: center;
+}
