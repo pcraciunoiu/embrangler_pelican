@@ -12,24 +12,25 @@
 
 {% block content %}
   <div id="post">
-    <h1 class='title'>{{ article.title }}</h1>
-    <div class="meta">
+    <h1 class="post-title">{{ article.title }}</h1>
+    <div class="post-meta">
+      <time datetime="{{ article.date.isoformat() }}" title="{{ article.date.strftime(DEFAULT_HOVER_DATE_FORMAT) }}">{{ article.locale_date }}</time>
+      &ndash;
       {% if article.tags %}
-      <div class="tags">Tags:
+      <div class="post-tags">Tags:
         {% for tag in article.tags %}
           <a href="/{{ tag.url }}">{{ tag }}</a>{% if not loop.last %},
           {% endif %}
         {% endfor %}
       </div>
       {% endif %}
-      <time datetime="{{ article.date.isoformat() }}" title="{{ article.date.strftime(DEFAULT_HOVER_DATE_FORMAT) }}">{{ article.locale_date }}</time>
     </div>
     {{ article.content }}
   </div>
 
   {% if article.related_posts %}
   <div id="related">
-    <h2>Related Posts</h2>
+    <h3>Related Posts</h3>
     <ul>
       {% for related_post in article.related_posts %}
         <li><a href="/{{ related_post.url }}">{{ related_post.title }}</a> &mdash; {{ related_post.locale_date }}</li>

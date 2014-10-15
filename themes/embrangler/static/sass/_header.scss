@@ -1,0 +1,120 @@
+// Navbar
+.navbar {
+    @extend .cf;
+    background: $bg-alt;
+    border-bottom: 1px solid $border-light;
+    line-height: $navbar-height;
+    margin-bottom: $padding * 2;
+    padding: $padding-y $padding;
+
+    a {
+        color: $color;
+
+        &:hover {
+            color: $primary;
+        }
+    }
+}
+
+.navbar-title {
+    font-size: 1.2em;
+    float: left;
+    line-height: $navbar-height;
+    margin: 0;
+
+    > a {
+        color: $primary;
+    }
+}
+
+.navbar-title-mobile {
+    display: none;
+}
+
+@media screen and (max-width: $max-width) {
+    .navbar-title-desktop { display: none; }
+    .navbar-title-mobile { display: block; }
+}
+
+.navbar-subtitle {
+    display: none;
+    font-size: 1em;
+    margin-top: 0;
+}
+
+.navbar-menu {
+    float: right;
+}
+
+.navbar-item {
+    margin: 0 $padding-x-sm;
+}
+
+.navbar-item-highlight.navbar-item-highlight {
+    background: $warning;
+    border-radius: $border-radius;
+    box-shadow: inset 0 -2px 0 rgba(0, 0, 0, 0.1);
+    color: #fff;
+    display: inline-block;
+    padding-left: $padding-x-lg;
+    padding-right: $padding-x-lg;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+
+    &:hover {
+        color: #fff;
+    }
+
+    &:active {
+        box-shadow: inset 0 2px 0 rgba(0, 0, 0, 0.1);
+    }
+}
+
+.navbar-page {
+    text-align: center;
+
+    .navbar-title {
+        display: none;
+    }
+
+    .navbar-menu {
+        float: none;
+    }
+}
+
+@media screen and (max-width: $max-width) {
+    .navbar {
+        font-size: 0.75em;
+    }
+
+    .navbar-item {
+        margin: 0 $padding-y-sm;
+    }
+
+    .navbar-item-highlight.navbar-item-highlight {
+        padding-left: $padding-x;
+        padding-right: $padding-x;
+    }
+}
+
+// Header
+.header {
+    padding-left: $padding;
+    padding-right: $padding;
+}
+
+.header-title {
+    font-size: 2.33em;
+    margin: $padding-y 0 $padding-y-lg;
+}
+
+.header-subtitle {
+    border-bottom: 2px dotted $border;
+    font-size: 1.2em;
+    margin-top: $padding-y-lg;
+    margin-bottom: $padding;
+    padding-bottom: $padding * 2;
+
+    > a {
+        color: $color;
+    }
+}

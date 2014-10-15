@@ -1,0 +1,12 @@
+{
+  "name": "embrangler",
+  "version": "0.0.0",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-sass": "^0.8.1",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-autoprefixer": "~1.0.1",
+    "jit-grunt": "^0.7.0"
+  },
+  "private": true
+}

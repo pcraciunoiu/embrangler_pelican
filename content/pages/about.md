@@ -3,9 +3,6 @@ Meta_Keywords: About, Paul Craciunoiu
 Meta_Description: About Paul Craciunoiu, web developer and blogger at embrangler.com
 Slug: about
 
-meta_keywords: About, Paul Craciunoiu
-meta_description: About Paul Craciunoiu, web developer and blogger at embrangler.com
-
 In 2011, I founded my own company, SoWink Inc. The company has been discontinued in January 2012.
 
 Until April 2011, I worked as a full time web developer for Mozilla, with main focus on [Django](http://www.djangoproject.com/), Python, and PHP. I have a bachelor's degree in Computer Science from the University of California at Santa Cruz. I've been involved with Mozilla since June 2008.
