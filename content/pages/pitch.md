@@ -59,13 +59,17 @@ I got into __web development in college__ and immediately got paid for it. Throu
 These are just some of the technologies I'm familiar with. Don't worry, I learn new ones quickly and frequently.
 
 * Python
+* SQL, especially MySQL and PostgreSQL
+* Amazon Web Services
+* Google App Engine
 * JavaScript
 * jQuery
 * Backbone and Marionette
 * Grunt
-* PHP
+* PHP (including Wordpress, Drupal)
 * Java (including native Android development)
 * Clojure
+* UNIX/command line/scripting, etc
 * C/C++
 * SASS and LESS
 * CSS3 and HTML5
