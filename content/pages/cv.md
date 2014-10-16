@@ -1,15 +1,9 @@
-Title: Resume or Curriculum Vitae
+Title: Resume
 Slug: cv
 Meta_Keywords: resume, recruiting, professional summary, jobs
 Meta_Description: Paul Craciunoiu's resume or curriculum vitae.
 
-Paul Craciunoiu
-
-paul {at} craciunoiu {dot} net
-
-[PDF Version](/static/files/resume.pdf)
-
-<a href='http://vizualize.me/ObD7QOQisO?r=ObD7QOQisO' title="Paul Craciunoiu's infographic CV on vizualize.me"><img src='http://vizualize.me/media/img/socialicons/viewmyviz.png'/></a>
+Paul Craciunoiu &middot; paul [at] craciunoiu (dot) net
 
 
 Work Experience
