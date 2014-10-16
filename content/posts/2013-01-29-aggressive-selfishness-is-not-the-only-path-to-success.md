@@ -85,4 +85,4 @@ This book has reinforced my continued efforts to grow, but it has done so in way
 
 I now pay more attention to the present, show appreciation for it, involve my peers, and really notice how interesting life is. Another reminder on why it is good to keep your inner child alive&mdash;curiosity makes everything more interesting. Of course, as inertia goes, these are incremental improvements that end up making a tremendous difference in the long run.
 
-I am almost addicted to flow, constantly searching for ways to get even more involved (which explains my increased attraction to [taking risks](/2012/01/belated-birthday-resolutions/#take-more-risks).
+I am almost addicted to flow, constantly searching for ways to get even more involved (which explains my increased attraction to [taking risks](/2012/01/belated-birthday-resolutions/#take-more-risks)).

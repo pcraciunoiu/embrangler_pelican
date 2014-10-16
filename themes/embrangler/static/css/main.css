@@ -294,11 +294,15 @@ input[type="checkbox"], input[type="radio"] {
   padding: 20px; }
 
 #footer .about > p:first-child {
-  border-bottom: 1px dotted #999999;
   color: #fff;
   font-size: 1.2em;
   padding-bottom: 20px;
   margin-bottom: 20px; }
+
+#footer .about > p:first-child,
+#footer .about > p:last-child {
+  border-bottom: 1px dotted #999999;
+  padding-bottom: 20px; }
 
 #footer .quote {
   margin-top: 40px;

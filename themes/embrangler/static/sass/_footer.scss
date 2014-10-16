@@ -12,11 +12,16 @@
 }
 
 #footer .about > p:first-child {
-    border-bottom: 1px dotted $gray-light;
+    
     color: #fff;
     font-size: $font-size-lg;
     padding-bottom: $padding;
     margin-bottom: $padding;
+}
+#footer .about > p:first-child,
+#footer .about > p:last-child {
+    border-bottom: 1px dotted $gray-light;
+    padding-bottom: $padding;
 }
 
 #footer .quote {
