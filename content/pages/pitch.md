@@ -30,7 +30,9 @@ IsPromo: true
 
 ### Why part time and/or remote?
 
-I love to travel and work from various timezones. Letting someone work flexible, remote hours may seem like __a big sacrifice__ for a company. It's not as big as it seems. In return for the apparent sacrifice you get:
+I can be __incredibly productive__ if the environment allows for it. I'm a fast learner and get restless about solving hard problems. I believe in a [growth mindset](http://www.amazon.com/Mindset-Psychology-Success-Carol-Dweck/dp/0345472322/), which means I tend to see hardship as a positive challenge, instead of depressing. The companies I worked with have been very pleased with my results, even though I may be on the higher range in terms of compensation.
+
+On a personal note, I love to travel and work from various timezones. Letting someone work flexible, remote hours may seem like __a big sacrifice__ for a company. It's not as big as it seems. In return for the apparent sacrifice you get:
 
 * a good communicator, experienced with working remotely
 * a [risk taker](#values) willing to step up to a challenge
