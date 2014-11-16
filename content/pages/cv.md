@@ -23,7 +23,7 @@ Software Engineer and Junior PM, March 2013
 	* Technical lead and often solo engineer, using Django and AWS backend
 	* Tackled challenging problems with extremely tight deadlines
 	* Implemented security and encryption of student data
-	* [More here](/pitch/#i-can-efficiently-deliver-on-tight-deadlines)
+	* [More here](http://bigchristmas.red/#i-can-efficiently-deliver-on-tight-deadlines)
 
 Software Engineer, Feb 2012
 ---------------------------
