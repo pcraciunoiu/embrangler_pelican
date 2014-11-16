@@ -3,7 +3,9 @@ Meta_Keywords: About, Paul Craciunoiu
 Meta_Description: About Paul Craciunoiu, web developer and blogger at embrangler.com
 Slug: about
 
-From 2012 onwards I've been working at startups, and I'm now transitioning to a part time job in order to focus on developing other skills, personal and professional. [Read more about that here.](/pitch)
+I'm an independent consultant. I run [BigChristmas](http://bigchristmas.red).
+
+From 2012 onwards I worked with startups. Most recently I worked with [Minerva Project](http://minervaproject.com): a university looking to revolutionize education through a unique model. Prior to this I worked with [Humble Bundle](https://humblebundle.com), a Sequoia and Y-Combinator backed company, profitable since before it started. In both places I went much beyond engineer responsibilities.
 
 In 2011, I founded my own company, SoWink Inc. The company has been discontinued in January 2012. During this time, I managed a team of engineers, built a dating product with too many features and learned a ton about software, the web, and the sheer diversity of knowledge a founder must have.
 

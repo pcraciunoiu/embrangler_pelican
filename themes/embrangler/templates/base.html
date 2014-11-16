@@ -10,6 +10,8 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width">
   <link type="image/x-icon" href="/favicon.ico" rel="shortcut icon">
+  {# TODO: figure out feeds #}
+  {#
   {% if FEED_ATOM %}
   <link href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
   {% endif %}
@@ -28,6 +30,7 @@
   {% if TAG_FEED_RSS %}
   <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Tags RSS Feed" />
   {% endif %}
+  #}
   <link rel="stylesheet" type="text/css" href="/theme/css/main.css">
   <link rel="stylesheet" type="text/css" href="/theme/css/syntax.css">
 {% endblock head %}
@@ -45,7 +48,7 @@
         <div class="navbar-menu">
             {% if page and page.ispromo %}
             {% else %}
-                <a href="/pitch" class="navbar-item navbar-item-highlight">Work with Me</a>
+                <a href="http://bigchristmas.red" class="navbar-item navbar-item-highlight">Work with Me</a>
             {% endif %}
             <a class="navbar-item" href="/cv">Resume</a>
             <a class="navbar-item" href="/about">About</a>
@@ -76,7 +79,7 @@
       <div class="container">
         <div class="about">
           <p>If you're interested in working together, contact me through one of the links below. <br>I'm searching for a flexible opportunity. <a href="/pitch">Why should you hire me?</a></p>
-          <p>I'm a full stack, all around Software Engineer with Product Management experience and great communication skills. Currently at <a href="http://minervaproject.com">Minerva Project</a>, reshaping higher education by building (1) a University Admissions website and process and (2) a classroom experience in <a href="http://clojure.org/">Clojure</a>, then Django. I also work on the front-end using <a href="http://backbonejs.org/">Backbone</a> and <a href="http://marionettejs.com/">Marionette</a>.</p>
+          <p>I'm a full stack, all around Software Engineer with Product Management experience and great communication skills. Recently at <a href="http://minervaproject.com">Minerva Project</a>, reshaping higher education by building (1) a University Admissions website and process and (2) a classroom experience in <a href="http://clojure.org/">Clojure</a>, then Django. I also worked on the front-end using <a href="http://backbonejs.org/">Backbone</a> and <a href="http://marionettejs.com/">Marionette</a>.</p>
         </div><!-- .about -->
         <div class="contact">
           <a href="http://twitter.com/embrangler/">@embrangler on Twitter</a> --

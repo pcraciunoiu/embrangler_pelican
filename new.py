@@ -59,9 +59,12 @@ if __name__ == '__main__':
     template_date = get_template_date()
     # Only create the file if it doesn't exist.
     if not os.path.exists(filename):
+      print "[created]", filename
       with file(filename, 'w') as f:
         f.write(template.format(
           title=title,
           date=template_date).strip() + '\n\n')
     # Then edit it.
+    else:
+      print "[editing]", filename
     os.system('vim ' + filename)

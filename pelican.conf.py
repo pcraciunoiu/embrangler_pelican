@@ -18,7 +18,7 @@ LOCALE = ''
 DEFAULT_DATE_FORMAT = '%b %d, %Y'
 DEFAULT_HOVER_DATE_FORMAT = '%b %d, %Y %I:%M%p'
 
-BLOG_KEYWORDS = 'Paul Craciunoiu, programming, django, python, mozilla, humble bundle, software engineer, entrepreneurship'
+BLOG_KEYWORDS = 'Paul Craciunoiu, programming, django, python, javascript, amazon web services, aws, mozilla, humble bundle, minerva project, software engineer, web developer, entrepreneurship'
 BLOG_DESCRIPTION = 'The personal and professional blog of Paul Craciunoiu, general cool web guy and entrepreneur.'
 
 PLUGINS = []
