@@ -3,7 +3,7 @@ Meta_Keywords: About, Paul Craciunoiu
 Meta_Description: About Paul Craciunoiu, web developer and blogger at embrangler.com
 Slug: about
 
-I'm an independent consultant. I run [BigChristmas](http://bigchristmas.red).
+I'm an independent consultant. I run [Uplift Agency](http://uplift.agency).
 
 From 2012 onwards I worked with startups. Most recently I worked with [Minerva Project](http://minervaproject.com): a university looking to revolutionize education through a unique model. Prior to this I worked with [Humble Bundle](https://humblebundle.com), a Sequoia and Y-Combinator backed company, profitable since before it started. In both places I went much beyond engineer responsibilities.
 
