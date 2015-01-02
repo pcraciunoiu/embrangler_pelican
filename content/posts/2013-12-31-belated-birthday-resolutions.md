@@ -111,7 +111,7 @@ In relationships, I'm extremely excited to learn more about possible paths. If I
 
 ## What now?
 
-This year had some interesting goals. I will keep working on them. Higher priorities, however, go to a few new ones for 2013.
+This year had some interesting goals. I will keep working on them. Higher priorities, however, go to a few new ones for 2014.
 
 1. [Explore connections with people](#explore-connections-with-people)
 1. [Strengthen my sense of self](#strengthen-my-sense-of-self)
@@ -169,7 +169,7 @@ __Ultimate goal:__ Become a decision and thought leader. Create change in myself
 
 I will continue: rock climbing, dancing, kiteboarding, snowboarding, biking and yoga.
 
-This year I've doing the [7-minute workout](http://www.7-min.com/) and really enjoying it. I'd like to add to that so I develop strength and balance in other ways.
+This year I've been doing the [7-minute workout](http://www.7-min.com/) and really enjoying it. I'd like to add to that so I develop strength and balance in other ways.
 
 * Yoga once a week. Try yoga at home also to make it more convenient, and maybe increase to twice a week.
 * Stretching for at least 5 minutes every other day.

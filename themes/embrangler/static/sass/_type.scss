@@ -61,6 +61,10 @@ blockquote {
     padding-left: $padding;
 }
 
+table th {
+    text-align: left;
+}
+
 // Code
 #post pre {
     font-family: "Courier New", monospace;
