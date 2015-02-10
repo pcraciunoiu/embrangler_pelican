@@ -15,4 +15,4 @@ Here's a quote from Tony Robbins' book that expresses the opposite:
 
 And finally:
 
-> Anyone can continue to feel good if they _alerady_ feel good, or if they're "on a roll"; it doesn't take much to accomplish this. But the real key in life is to be able to make yourself feel good when you don't feel good, or when you don't even _want_ to feel good.
+> Anyone can continue to feel good if they _already_ feel good, or if they're "on a roll"; it doesn't take much to accomplish this. But the real key in life is to be able to make yourself feel good when you don't feel good, or when you don't even _want_ to feel good.
