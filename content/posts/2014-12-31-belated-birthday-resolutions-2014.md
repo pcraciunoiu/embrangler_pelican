@@ -52,7 +52,7 @@ I learned and experienced more than I thought possible already, and I cannot wai
 * understanding more about being in love (also known as [limerence](http://en.wikipedia.org/wiki/Limerence)): passion and enthusiasm, to a slight point of obsession; often fades after a while.
 * sexual tension: can be mediated from fading. :)
 * clearer communication: especially around expectations and needs. We make so many assumptions. This year I understood more about just how important it is.
-* getting in touch with my desires: emotionally, intellectually, and [sexually](www.amazon.com/Sex-Dawn-Stray-Modern-Relationships/dp/0061707813/).
+* getting in touch with my desires: emotionally, intellectually, and [sexually](http://www.amazon.com/Sex-Dawn-Stray-Modern-Relationships/dp/0061707813/).
 * opening up and pushing the limits of my comfort zone, in terms of jealousy, security, and more.
 * understanding the fad of vulnerability for its own sake.
 * be more [grateful, mindful, positive and appreciative](http://www.amazon.com/Buddhas-Brain-Practical-Neuroscience-Happiness/dp/1572246952/) of the little things.
