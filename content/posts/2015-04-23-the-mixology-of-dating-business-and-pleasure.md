@@ -11,7 +11,7 @@ Well, every now and then I find myself thinking back to the days of [SoWink](/20
 * What makes people connect?
 * What describes a sustainable relationship?
 * How do you know if someone is right for you?
-* In an era when marriage's success is highly questionable, should you stillget married?
+* In an era when marriage's success is highly questionable, should you still get married?
 * How should you raise your children? What kind of environment may be best for them?
 * How many relationships should you have?
 
