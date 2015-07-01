@@ -94,7 +94,10 @@ San Jose State University/UC Santa Cruz, CA, USA - GPA: 3.8/4.0
 * __Awards:__ Dean’s Scholar honors award; Computer Science Scholarship for academic achievements
 
 
-Research NASA Sponsored Research Project, SJSU, Jan - May 2008
+Research
+========
+
+NASA Sponsored Research Project, SJSU, Jan - May 2008
 --------------------------------------------------------------
 * Team leader of a group of five; coordinate meetings, discussions, code writing
 * Develop model in Matlab using algorithms on graphs and large scale computation
