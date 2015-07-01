@@ -99,7 +99,7 @@ Research NASA Sponsored Research Project, SJSU, Jan - May 2008
 * Team leader of a group of five; coordinate meetings, discussions, code writing
 * Develop model in Matlab using algorithms on graphs and large scale computation
 * Present results to NASA sponsors, SJSU faculty and prospective sponsors
-* Publish paper at http://www.math.sjsu.edu/camcos/projects/proj 082/proj 082.htm
+* Publish paper [here](http://www.math.sjsu.edu/camcos/projects/proj_082/proj_082.htm)
 
 
 Presentations
