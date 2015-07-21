@@ -6,7 +6,7 @@ Meta_Description: Paul Craciunoiu's list of things to experience in this life.
 Following [gandalf's idea](http://diary.braniecki.net/2009/02/13/150-things-to-do-before-you-turn-30/), I'm starting this to-do list for things I want to experience in this life.
 
 __Created on: 10/10/10__<br>
-__Last updated: 01/12/12__
+__Last updated: 07/20/15__
 
 1. Save someone's life.
 1. <span class="done">Cause a car accident.</span>
@@ -36,7 +36,7 @@ __Last updated: 01/12/12__
     * I'd love to repeat.
 1. Surf at Pipeline, Oahu, Hawaii.
 1. Go to _outer space_ and see [this](http://www.astronomic.ro/wp-content/uploads/2010/06/eso1027a.jpg).
-1. Own a [hammock](http://en.wikipedia.org/wiki/Hammock).
+1. <span class="done">Own a [hammock](http://en.wikipedia.org/wiki/Hammock).</span>
 1. <span class="done">Visit Paris.</span>
 1. <span class="done">Visit Yosemite National Park.</span>
 	* See Vernal, Nevada, Bridalveil waterfalls.
@@ -57,7 +57,7 @@ __Last updated: 01/12/12__
 1. Visit Ireland.
 1. Give a speech in front of more than a thousand people (yes, I want to be _that_ famous).
 1. Have and raise at least 2 children.
-1. Scuba dive at a tropical island.
+1. <span class="done">Scuba dive at a tropical island.</span>
 1. Have a really unusual wedding (hopefully unusual in a good way).
 1. <span class="done">Practice meditation for an entire week.</span>
 1. Speak at least one of the following languages fluently:
@@ -69,7 +69,7 @@ __Last updated: 01/12/12__
 1. Pull off a good-enough British accent.
 1. Visit Romanian monasteries from Moldova.
 1. Swim in the Dead Sea.
-1. Visit Thailand.
+1. <span class="done">Visit Thailand</span>.
 1. Visit Madagascar.
 1. Play a game with a chimpanzee.
 1. Reach a 6% body fat percentage.
@@ -95,7 +95,12 @@ __Last updated: 01/12/12__
 1. Be lost at sea.
 1. Visit Pucon, Chile (snow, volcano, beach)
 	* Saw pictures from October
-1. Visit Costa Rica
+1. Visit Costa Rica (visited, but didn't do the below)
 	* Volcanoes, lava
 	* River rafting
 	* Black sand beaches
+1. <span class="done">Fracture a bone.</span>
+1. <span class="done">Experiment with relationship styles.</span>
+	* Can always do more, but I feel accomplished.
+1. <span class="done">Kiteboard, jump, and do backrolls and frontrolls.</span>
+1. <span class="done">Become sustainably self-employed.</span>
