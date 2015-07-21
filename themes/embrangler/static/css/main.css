@@ -442,6 +442,9 @@ pre code {
   line-height: 1.33;
   margin-top: 8px; }
 
+span.done {
+  text-decoration: line-through; }
+
 .cf:before, .navbar:before, .split-summary:before,
 .cf:after,
 .navbar:after,
