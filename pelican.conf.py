@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = 'Paul Craciunoiu'
-SITENAME = 'Disembrangling Programming'
+SITENAME = "Life's twists and turns"
 SITEURL = 'http://embrangler.com'
 
 # TODO: check that this feed domain works for category, etc other feeds
@@ -18,8 +18,8 @@ LOCALE = ''
 DEFAULT_DATE_FORMAT = '%b %d, %Y'
 DEFAULT_HOVER_DATE_FORMAT = '%b %d, %Y %I:%M%p'
 
-BLOG_KEYWORDS = 'Paul Craciunoiu, programming, django, python, javascript, amazon web services, aws, mozilla, humble bundle, minerva project, software engineer, web developer, entrepreneurship'
-BLOG_DESCRIPTION = 'The personal and professional blog of Paul Craciunoiu, general cool web guy and entrepreneur.'
+BLOG_KEYWORDS = 'Paul Craciunoiu, software engineer, web developer, entrepreneurship, consulting, pursuit of happiness'
+BLOG_DESCRIPTION = 'The life blog of Paul Craciunoiu. Consultant, adventurer, traveler, pursuer of happiness.'
 
 PLUGINS = []
 
