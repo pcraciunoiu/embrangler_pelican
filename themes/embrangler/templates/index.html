@@ -7,7 +7,7 @@
   {% for article in articles_page.object_list %}
   <div class="post {{ loop.cycle('first', 'last') }}">
     <h2 class="post-title">
-        <a href="/{{ article.url }}" rel=bookmark title="Permalink to {{ article.title }}">{{ article .title|truncate(length=50) }}</a>
+        <a href="/{{ article.url }}" rel=bookmark title="Permalink to {{ article.title }}">{{ article .title|truncate(length=60) }}</a>
     </h2>
     {{ article.summary }}
     <div class="post-footer">
