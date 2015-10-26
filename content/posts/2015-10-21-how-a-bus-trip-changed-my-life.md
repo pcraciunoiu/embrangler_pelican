@@ -1,6 +1,6 @@
 Title: How a bus trip from Bucharest to Cluj changed my life
 Date: 2015-10-20 00:45
-Tags: travel 
+Tags: travel mindset
 Summary: Or how can a series of unfortunate events be the best thing you could ask for?
 
 Sometimes, unfortunate things lead to brilliant ideas. And alter decisions in unpredictable ways. As I am writing this, we are on the second bus--the first one broke down in a horrible way. But I realize the value of this trip. And it will stay with me forever.
