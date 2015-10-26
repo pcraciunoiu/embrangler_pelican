@@ -70,6 +70,10 @@ Because you are. You don't need proof of that. It cannot be proven.
 
 So embrace life. Embrace this moment. Embrace your travels, and you will find companionship. It's a wonderful world and it's full of people that are waiting to meet you.
 
-## Thanks
+Today I am writing this on my way to Istanbul. This is the second trip this year that I've done meeting those fearful criteria. __I didn't know anyone here, and I already feel like I have a friend and am about to meet more people throughout the week__.
+
+The new potential friend is my host! He has tons of business ideas, and runs the apartment building I live in along with several other things... and also has a textile business, and is just generally really cool :)
+
+## Thanks!
 
 Thank you Vio, Rebecca and Jesse for the mindset shift!
