@@ -1,5 +1,5 @@
 Title: How this model of intelligence helped me get over my indecision
-Date: 2015-10-26 15:07
+Date: 2015-10-27 22:48
 Tags: intelligence, growth
 Summary: Feeling indecisive? Too many decisions to make? Read on for surprising truths about our inner nature.
 
