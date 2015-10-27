@@ -1,7 +1,7 @@
-Title: Do you feel unhappy with your decisions? Or have trouble making decisions altogether?
+Title: How this model of intelligence helped me get over my indecision
 Date: 2015-10-26 15:07
 Tags: intelligence, growth
-Summary: Surprising truths about our inner nature.
+Summary: Feeling indecisive? Too many decisions to make? Read on for surprising truths about our inner nature.
 
 I recently* [read a book](http://www.amazon.com/Intelligence-Jeff-Hawkins/dp/0805078533/) that claims prediction represents the core of intelligence. Think about that. We are intelligent, therefore we are able to predict. We are by that measure more intelligent than other animals because we are able to predict more complex things.
 
@@ -45,7 +45,7 @@ If you remember only one thing out of this writing, let it be this: commit to ma
 
 I use all sorts of tricks to work through my indecisive moments. In an effort **not** to overwhelm you with choice, here are _just a few_ excellent processes to help with your indecisions:
 
-* Set yourself a reminder to look back and find recent times when you were undecided. Then take some time to reflect on them. Try to learn something each time, no matter how small. Depending on how indecisive you are, it may make sense to have this reminder once per day, once per week. Mine is once per week.
+* Set yourself a reminder to look back and find recent times when you were undecided. Then take some time to reflect on them. Try to learn something each time, no matter how small. Depending on how indecisive you are, it may make sense to have this reminder once per day, once per week. Mine is once per week and it's literally "How decisive was I? Did I circle the drain?"
 * Relax and don't expect to decide something right away when you are confronted with it. Most things can wait much longer than we intuitively feel. Ask yourself: is this a really complex decision? If it is, then it's natural to take a bit longer. Pressuring yourself to decide sooner may only make it worse.
 * When you feel you're stuck, simply pause. Give yourself a while to forget about the urgency, to relax your frustration. Then come back to it when that feeling of anxiety is gone, or reduced.
 * Whether you come back or are close to deciding the first time around. Do you find you just can't pull the trigger? Try imagining that you've already decided. That you've moved on to the next thing. Can you see which decision you might have made looking back? If not, perhaps it's not such an important decision after all.
