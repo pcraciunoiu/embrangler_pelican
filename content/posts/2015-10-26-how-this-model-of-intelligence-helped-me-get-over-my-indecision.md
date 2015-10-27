@@ -7,6 +7,18 @@ I recently* [read a book](http://www.amazon.com/Intelligence-Jeff-Hawkins/dp/080
 
 I'll leave the evolutionary details aside for a moment and skip over to another observation.
 
+# My context: decision overload
+
+My life is of such nature that, should I choose, I have the opportunity to make an overwhelming number of important decisions in a very short amount of time.
+
+In fact, I believe everyone's life can become this way if they choose to follow their own values instead of others'. That's a topic for another article, however.
+
+I currently enjoy a flexible lifestyle. It's wonderful! However, it comes with a potential for decision paralysis. Being self employed, I get to decide when and where I work, for how long, and more. I get to change what I do over time, if I want to, and so much more. My whole reality is very similar to any new situation or any abundance of freedom you may have. Keeping an open mind to "all possible decisions" comes at a cost, and it also has great rewards.
+
+I would not be able to follow my own path if I always looked to follow others. And in order to follow my own path, I have to make my own decisions. And the more distinct that path is from the paths I can currently draw from, the more obstacles I will hit.
+
+So, in case you, like me, and have been struggling with indecision and you find yourself nodding to these things, great! The first thing you should do is **pat yourself on the back and give yourself a break**. It's fine to expect great things of yourself, and by the same token you must also have compassion for your own feelings and efforts.
+
 # The most powerful realization you can have
 
 _What is the purpose of prediction?_ __To help us make decisions.__ Decisions help us survive and learn. Surviving one decision and learning from it virtually guarantees growth. Think about __how powerful that is__! Let that realization sink in for a moment. This is why... so many things:
