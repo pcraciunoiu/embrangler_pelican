@@ -7,6 +7,8 @@ There is a pattern in many of the emails I get about working with me as a consul
 
 # Part time can actually be more productive than full time
 
+First off, I just want to get the obvious out of the way. I'm not saying it's always better to work with a consultant. There are many situations in which a full time employee makes more sense.
+
 Many employers seem to think that more time equals more stuff done. For any kind of demanding working (mental or physical), it is simply not true.
 
 __Past the warmup period, the most productive hours are the first 3-4. Then productivity drops.__
