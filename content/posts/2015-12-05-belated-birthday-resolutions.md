@@ -16,6 +16,12 @@ Summary: Resolutionizing 2016+. Looking back and forward.
 
 1. [What now?](#what-now)
 
+    1. [Grow my revenue by 50% with future potential](#grow-my-revenue-by-50-with-future-potential)
+    1. [Treat my body with loving kindness](#treat-my-body-with-loving-kindness)
+    1. [Engage an audience of 1,000+ people](#engage-an-audience-of-1000-people)
+    1. [Work and travel productively](#work-and-travel-productively)
+    1. [Treat my relationships with loving kindness](#treat-my-relationships-with-loving-kindness)
+
 1. [Onward, I say!](#onward-i-say)
 
 ## Thanks, previous years!
@@ -141,6 +147,7 @@ Fell short:
 * Having a more concrete direction and setup for myself, especially while traveling. I'm cutting myself a break since I've been learning how to travel and work this year, and it's been more challenging than I expected.
 
 Overall I'm impressed and proud of myself for handling this one so well.
+
 * One of my best relationships transitioned to friendship
 * I saw my close friends from Romania and opened up to them about my changed mindsets, with some tough conversations
 * I stepped away from kiteboarding when my body told me to
@@ -184,15 +191,17 @@ A part of this was inspired by [Steve Pavlina](http://www.stevepavlina.com/blog/
 
 Here it is for me:
 
-### What was my greatest growth experience during the past 4 years?
+### **What was my greatest growth experience during the past 5 years?**
 
 Daring to be who I want to be in my relationships with others. Creating my own path, defining and attracting my own success.
 
-### What was my greatest growth lesson during those 11 years?
+### **What was my greatest growth lesson during those 5 years?**
 
 It's basically the same as Steve's. When I fail to follow my own goals and path, I enjoy life less. I've succeeded at following my path much more in the past two years than in the prior two.
 
-### What areas of my life am I coasting instead of growing?
+### **What areas of my life am I coasting instead of growing?**
+
+I don't feel like I'm coasting in any area at the moment. But these may come up during 2016 and I'd like to keep an eye on them:
 
 * Physically. My flexibility and balance is improving, but very slowly.
     * Kiteboarding, partially because I am recovering from an injury still
@@ -204,7 +213,7 @@ It's basically the same as Steve's. When I fail to follow my own goals and path,
 
 ## 2016+
 
-### 1. Grow my revenue by 50% with future potential
+### Grow my revenue by 50% with future potential
 
 As part of taking my business to the next level, I thought about what 2x or 3x would look like. Honestly, I think there is potential to 3x or even 5x in terms of revenue.
 
@@ -223,7 +232,7 @@ So, more concretely:
 
 __Ultimate goal:__ Grow 50% while building a growing business and audience. Use niching, quality content and client research to increase my value.
 
-### 2. Treat my body with loving kindness
+### Treat my body with loving kindness
 
 2015 has been wonderful for building strength. However, I've been feeling more tightness and muscle soreness than before. Both as part of aging and due to the intensity of my sport hobbies, I've found it necessary to stretch and care for my joints: wrists, knees, elbows.
 
@@ -248,10 +257,11 @@ My hopes are that I increase my flexibility and reduce my joint and muscle soren
     * Maintain a keen eye on how my body feels. This will help prevent injury and help me relax.
 * Maintain core, legs and back strength with sports: kiteboarding, rock climbing, yoga
 * Remind yourself to relax and be grateful. Every. Single. Day.
+* Continue to eat well.
 
 __Ultimate goal:__ Maintain a healthy practice so I can still kiteboard, bike and rock climb while increasing flexiblity and having a healthy posture with yoga and stretching.
 
-### 3. Engage an audience of 1,000+ people
+### Engage an audience of 1,000+ people
 
 So this is probably my scariest goal on the list. I'm not sure how I'm going to do this yet... I figure, worst case of "total failure" is I learn a valuable lesson in the process.
 
@@ -269,7 +279,7 @@ __Ultimate goal:__ To produce quality work other people can truly benefit from. 
 
 __Note:__ This is a more concrete iteration of my goal from the past to "Produce more and consume less." History repeats itself :)
 
-### 4. Work and travel productively
+### Work and travel productively
 
 Despite the difficulty of working while traveling, I love love love love it! I am excited to continue this journey next year. The most challenging aspects this year have been:
 
@@ -309,7 +319,7 @@ So what's the next level here?
 
 __Ultimate goal:__ Enjoy work and travel more comfortably. Become a professional at leading a working life on the road.
 
-### 5. Treat my relationships with loving kindness
+### Treat my relationships with loving kindness
 
 In 2015, I didn't have relationships explicitly on my list. Relationships are such an important part of life that I felt suspicious of them not being on this list. Now they are back! This time, they are much less about my selfish needs. But really all about me growing as well, underneath it all.
 
