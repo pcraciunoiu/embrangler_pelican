@@ -26,6 +26,19 @@ Summary: Resolutionizing 2016+. Looking back and forward.
 
 ## Thanks, previous years!
 
+First off, looking back at 2015, I am amazed and infinitely grateful! It's been a year beyond expectations. What went particularly well?
+
+* Maintained my career independence all year through consulting work (in my first year, plunged right into full time!!)
+* Worked while traveling, for extended periods of time!! (*months*)
+* So much kiteboarding!
+* Lots of individual growth in relation to others (broke new ground in relationships)
+
+What did not go well?
+
+* I had a back injury and am still recovering. I'm just now coming to see it as the great opportunity for growth that it really is. I already went back and forth in my head on what could I have done different. Unfortunately, I can't turn back time. But the lessons learned are useful for life.
+* My relationships all dwindled. I messed up several times. I've had an easier time forgiving myself than before, which is a good thing. They were necessary lessons. I regret splitting myself too thin and doing too many things: there were times where a bit more focus and importance to the present risks of a relationship would have been very useful. I'm learning and applying lessons here... and I feel that there is more to learn.
+
+
 Here's what goals I focused on achieving for 2015:
 
 1. Travel, travel, travel
@@ -213,6 +226,17 @@ I don't feel like I'm coasting in any area at the moment. But these may come up 
 
 ## 2016+
 
+[Startups for the rest of us](http://www.startupsfortherestofus.com/episodes/episode-268-how-to-set-annual-goals) made a great point. They suggested asking this question: If it was December 2016 today and I looked back on it, what would I want to celebrate?
+
+Here are the top things:
+
+* Healing and recovering from my back injury so I can continue my favorite exercises: kiteboarding, yoga (latter is actually part of recovery)
+* Continuing to be self employed and earning a living through it
+* Starting an online business and making a first sale
+* Creating (and maintaining) a social life of healthy relationships
+
+Even those are a lot, and I hope to come close to them.
+
 ### Grow my revenue by 50% with future potential
 
 As part of taking my business to the next level, I thought about what 2x or 3x would look like. Honestly, I think there is potential to 3x or even 5x in terms of revenue.
@@ -332,6 +356,7 @@ My priorities for this:
 * Be patient and grateful to those that choose to enter my life.
 * Approach any potential relationship with honesty, curiosity, patience and tenderness.
 * Learn about humor. Actually worth researching this via books.
+* Create or enter a new community of friends, preferably somewhere else in the world than the Bay Area.
 
 __Ultimate goal:__ Fill my life with patience, love and gratitude. Be present with other people. Let go of frustration, anger, fear, and guilt.
 
