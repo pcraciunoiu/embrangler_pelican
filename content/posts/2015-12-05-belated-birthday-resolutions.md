@@ -230,7 +230,7 @@ I don't feel like I'm coasting in any area at the moment. But these may come up 
 
 Here are the top things:
 
-* Healing and recovering from my back injury so I can continue my favorite exercises: kiteboarding, yoga (latter is actually part of recovery)
+* Healing and recovering from my back injury so I can continue my favorite exercises: kiteboarding, rock climbing, yoga (last one is part of recovery)
 * Continuing to be self employed and earning a living through it
 * Starting an online business and making a first sale
 * Creating (and maintaining) a social life of healthy relationships
