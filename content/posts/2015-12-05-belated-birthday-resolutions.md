@@ -230,6 +230,7 @@ I don't feel like I'm coasting in any area at the moment. But these may come up 
 
 Here are the top things:
 
+* Being more patient with my mind, my body, and other people.
 * Healing and recovering from my back injury so I can continue my favorite exercises: kiteboarding, rock climbing, yoga (last one is part of recovery)
 * Continuing to be self employed and earning a living through it
 * Starting an online business and making a first sale
@@ -262,6 +263,7 @@ __Ultimate goal:__ Grow 50% while building a growing business and audience. Use 
 
 My hopes are that I increase my flexibility and reduce my joint and muscle soreness while doing the sports I love. This will allow me to really make progress and improve my board and kite skills, and my climbing skills. If it doesn't work out, Plan B is to commit to yoga and stretching so as to strengthen my body and prepare for this to be possible in another year. Overall, I am confident I can find a healthy balance in 2016.
 
+* Be patient. Be kind. Be graceful with others. When I need to step back, do so gently.
 * Improve flexibility
     * In particular, my legs and hips: hamstrings and quads. E.g. folding forward, opening my hips. Yoga is key here.
     * Also my back: twisting and arching
@@ -350,6 +352,7 @@ In 2015, I didn't have relationships explicitly on my list. Relationships are su
 My priorities for this:
 
 * Listen. Listen. Listen.
+* Be patient. Be kind. Be graceful with others. When I need to step back, do so gently.
 * Learn what to give others to be respected and revered.
     * Short, simple summaries about myself should suffice.
 * Find a highly gratifying (for both sides) way to give. Ideally as surprise to people.
