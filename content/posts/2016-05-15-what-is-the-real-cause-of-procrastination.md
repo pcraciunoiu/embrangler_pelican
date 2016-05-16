@@ -59,6 +59,11 @@ But you'll notice, by the time you get there, you'll already feel better. Becaus
 
 You may ask: hey Paul are you saying I can just be super selfish and choose to believe only things that are good for me?
 
+<div class="img-wrap"><div class="img">
+	  <img alt="Top Rated placement in previous design" src="/static/images/2016/04-2000px-Rock-paper-scissors.svg.png" title="top-rated-link" width="700">
+	  <div>A three-way balanced game... of life</div>
+</div></div>
+
 First of all. I steer away from claiming anything universal.
 
 The beauty of evolution is how there's a yin for every yang. How change balances out.
@@ -67,6 +72,6 @@ We live in a world where everything is connected. If your beliefs impact other p
 
 So here's my advice: just develop beliefs according to your values. What's most important to you? Do your beliefs protect or stifle acting according to those values?
 
-# Back to motivation and willpower
+# Summary: back to motivation and willpower
 
 I digress. Here's the summary: act first, and take a small step at a time. Motivation will come. Even when you feel certain that it won't. Focus on the present, on that small action.
