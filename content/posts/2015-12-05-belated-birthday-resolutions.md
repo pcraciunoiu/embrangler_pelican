@@ -220,7 +220,7 @@ I don't feel like I'm coasting in any area at the moment. But these may come up 
     * Kiteboarding, partially because I am recovering from an injury still
     * Flexibility, because I haven't been doing regular yoga. I need an exercise routine.
 * Emotionally. I've transitioned away from many relationships. After tending to myself, it will soon be time to open up to others deeply.
-    * Experience higher intimacy with one or a few people. Incrase this with my brother and my family.
+    * Experience higher intimacy with one or a few people. Increase this with my brother and my family.
 * Spiritually. Experience more peace and less anger and frustration. I expect some sort of epiphany here.
     * Commit to a higher connection to myself and my spiritual beliefs. Probably through meditation.
 
@@ -324,7 +324,7 @@ So what's the next level here?
 
 * Live outside the US at least 3 months
     * Acknowledge that transitioning to a new place will cost me in productivity for even 1-2 weeks. Plan accordingly.
-    * Actually think about places I want to go to as places I might want to live to.
+    * Actually think about places I want to go to as places I might want to live in.
     * Off of those, include nearby travel destinations that may not be "workable from", but that are beautiful and interesting otherwise. E.g. how Ko Phi Phi was in Thailand.
 * Experiment with productive routines:
     * Morning focus on what matters to me
@@ -335,7 +335,7 @@ So what's the next level here?
         * Plan out what are the first things I'm going to get done to avoid falling for "reactive mode". This should not need to take longer than 30 minutes, even 15 with practice.
         * Sometimes, wind will encourage morning breaks. Alternative productive day requires end of day planning.
 * Work/life balance
-    * This year I worked my body quite hard. As I work towards a predictable consulting life, I want to limit the number of working hours per day. __A healthy limit feels btween 4-6 hours.__
+    * This year I worked my body quite hard. As I work towards a predictable consulting life, I want to limit the number of working hours per day. __A healthy limit feels between 4-6 hours.__
     * I plan to use [forcing functions](http://www.danmartell.com/forcingfunctions/) to increase my productivity: working meetings and time-constrained work
     * If I had just three hours to work today, what must I get done?
     * Take more time to meet people and listen to them and understand them. This year has been great for that, but I can do better.
