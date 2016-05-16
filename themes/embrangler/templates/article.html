@@ -28,6 +28,19 @@
     {{ article.content }}
   </div>
 
+  <secion class="revue-embed">
+    <form action="https://www.getrevue.co/profile/uplift-agency/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
+      <h1 class="revue-headline">Define your own success</h1>
+      <p class="revue-text">Want to keep growing? Get a few carefully curated articles once a month. Here's <a href="https://www.getrevue.co/profile/uplift-agency/archive/16855">a sample</a>.</p>
+      <div class="revue-form-group">
+        <input class="revue-form-field" placeholder="Email" type="email" name="member[email]">
+      </div>
+      <div class="revue-form-actions">
+        <input class="revue-form-submit" type="submit" value="Subscribe" name="member[subscribe]">
+      </div>
+    </form>
+  </secion>
+
   {% if article.related_posts %}
   <div id="related">
     <h3>Related Posts</h3>

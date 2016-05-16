@@ -7,6 +7,11 @@ The real cause of so much of our struggles is having the wrong mindset. We think
 
 You're like oh no way, I don't do that. I am a rational person or whatever. But hey, think about a time when you were feeling really depressed or drained of energy! Let's not kid ourselves, we've all had those. And in those moments it becomes the most clear that we wait hoping for motivation to strike us.
 
+<div class="img-wrap"><div class="img">
+	  <img alt="Top Rated placement in previous design" src="/static/images/2016/04-bed-photo-1455026733626-d2d31efe4976.jpeg" title="top-rated-link" width="700">
+	  <div>Stuck in bed waiting for motivation...</div>
+</div></div>
+
 But what about the busy, day to day life we lead? Surely I run out of motivation there and once it's depleted, I have to wait for it to recharge? Kind of like willpower?
 
 # Beliefs
@@ -38,8 +43,10 @@ So I strongly encourage you to listen to **YOUR** truth, your body, your mind. T
 As David Burns excellently puts it in his book:
 
 > I'll bet you still may not know for sure where motivation comes from. What, in your opinion, comes first&mdash;motivation or action?
+>
 > If you said motivation, you made an excellent, logical choice. Unfortunately, you're wrong. Motivation does _not_ come first, _action_ does! You have to prime the pump. Then you will begin to get motivated [...]
 > Individuals who procrastinate frequently confuse motivation and action. You foolishly wait until you feel in the mood to do something. Since you don't feel like doing it, you automatically put it off.
+>
 > &mdash; [Feeling good, David D. Burns, M.D.](http://amzn.com/0380810336)
 
 [Elite athletes](http://observer.com/2015/12/heres-the-strategy-elite-athletes-follow-to-perform-at-the-highest-level/) know that motivation can fail us when we think big, so they focus on the small, incremental gains. Like playing tennis one point at a time. Running a marathon one leg at a time. And so on.
@@ -48,7 +55,7 @@ Similarly, believe that you need to act **first**, and **then** you will feel th
 
 But you'll notice, by the time you get there, you'll already feel better. Because if it lines up with your values, you'll find a way to rationalize it :)
 
-# Checks and balances: why believing things are ONLY good for you may not work
+# Checks and balances: why believing in things good for _only_ you may not work
 
 You may ask: hey Paul are you saying I can just be super selfish and choose to believe only things that are good for me?
 
