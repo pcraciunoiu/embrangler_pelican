@@ -1,4 +1,4 @@
-Title: What is the real cause of procrastination and low motivation?
+Title: What's the real cause of procrastination & low motivation?
 Date: 2016-05-15 16:07
 Tags: psychology, motivation
 Summary: Why do we keep delaying the things we know we need to do? Why do we fail to act? Is it not enough motivation?
