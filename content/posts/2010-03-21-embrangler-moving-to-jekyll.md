@@ -24,7 +24,7 @@ A few weeks before I decided to switch off of Wordpress, I found out about stati
 
 A quick note on static sites: they have virtually no security holes (well, in theory), because there is no server-side handling of data submission. I'm using a <abbr title="Virtual Private Server">VPS</abbr> too, so I was fond of having less CPU usage on the server (due to not having to process, say, PHP scripts for Wordpress).
 
-Some of the alternatives to Jekyll that I considered are [Toto](http://www.cloudhead.io/toto), [StaceyApp](http://www.staceyapp.com/), [Chyrp](http://chyrp.net/), [Subtext](http://subtextproject.com/) and [Typo](http://typosphere.org/). I picked [Jekyll](http://wiki.github.com/mojombo/jekyll/) for two main reasons:
+Some of the alternatives to Jekyll that I considered are [Toto](http://www.cloudhead.io/toto), [StaceyApp](http://www.staceyapp.com/), [Chyrp](https://github.com/chyrp/chyrp), [Subtext](http://subtextproject.com/) and [Typo](http://typosphere.org/). I picked [Jekyll](http://wiki.github.com/mojombo/jekyll/) for two main reasons:
 * popularity -- looking at the [project's github](http://wiki.github.com/mojombo/jekyll/) watches/forks
 * documentation and examples -- there is actually a [Sites](http://wiki.github.com/mojombo/jekyll/sites) page, leading to other sites and their github hosted sources, immensely helpful when starting out
 
