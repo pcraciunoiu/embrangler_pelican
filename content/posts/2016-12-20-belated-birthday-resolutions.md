@@ -236,8 +236,16 @@ So this is a bit overlappy, because travel to these new countries I'm considerin
 Mentally, I'm looking to:
 
 * Relax my mind and increase my focus
+	* Continue meditating regularly
+	* Practice focus-demanding activities (kiting, being totally present in a connection or an event)
+		* How can I do this more/measure?
 * Explore tantra and new sexual opportunities
+	* Increases focus as well.
+	* Practice patience.
+	* Better understanding of how to channel sexual energy.
 * Add spiritual elements to my meditations, perhaps do group meditations, share in energy together
+	* Feel shared energy and act to shape it.
+	* This may lead to becoming more extroverted.
 
 Phyiscally:
 
@@ -245,6 +253,11 @@ Phyiscally:
 * Do some cleanses and diet experiments (especially removing grains and dairy--aka back to paleo)
 * Stretch and strengthen: get more massages, do more yoga, do weight or bodyweight exercise
 	* One massage a month would be great, and worth the cost.
+	* Yoga once a week, minimum.
+	* Weight exercises once a week, minimum.
+* Cleanse toxins from my body, experiment with diet and more
+	* Do one or more cleanses
+	* Experiment with short-term vegan diet, gerson diet, short-term seafood diet, and other potentially healing diets
 
 __Ultimate goal:__ Push the boundaries of my mind and my body's healing and strength. I really feel big changes coming in this area. And they are very interconnected, mind and body.
 
@@ -254,18 +267,19 @@ I want to build a product with my brother. In whatever shape and form.
 
 Here are some goals:
 
-* Market validation
-* Learn sales
+* Market validation: validate an idea by asking people
+* Learn sales: convince people to use the product
 * Launch something, even a trial or beta or launch page with ideas behind it
+* Get 10 users to try it out
 
 __Ultimate goal:__ Learn about birthing a product and raising it, especially the parts of it that don't have to do with what I'm already good at (engineering), and more to do with the market, the sales, the psychology, and the luck :)
 
 ### Travel to new continents
 
-I want to explore South America and Africa this year.
+I want to set foot on South America and Africa this year.
 
 * Travel solo in a new and non-English environment (Brazil)
-* Learn about a new culture
+* Learn about a new culture in depth from the locals (amazing stories to recall later)
 * Do something I wouldn't normally do on a trip (out of character)
 * Make the most out of my trip to Romania (by setting foot in Africa, hopefully)
 * Explore joining a new community of sorts. Any sorts. Perhaps couchsurfing.

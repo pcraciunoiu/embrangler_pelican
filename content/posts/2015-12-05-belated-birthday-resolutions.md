@@ -24,6 +24,12 @@ Summary: Resolutionizing 2016+. Looking back and forward.
 
 1. [Onward, I say!](#onward-i-say)
 
+## Why?
+
+I develop a longer-term perspective by looking back and forward 12 months each year.
+
+This is [my](/2014/12/belated-birthday-resolutions-2014/) [fifth](/2013/12/belated-birthday-resolutions/) [year](/2012/12/belated-birthday-resolutions/) [doing](/2012/01/belated-birthday-resolutions/) this, and I really enjoy it.
+
 ## Thanks, previous years!
 
 First off, looking back at 2015, I am amazed and infinitely grateful! It's been a year beyond expectations. What went particularly well?
