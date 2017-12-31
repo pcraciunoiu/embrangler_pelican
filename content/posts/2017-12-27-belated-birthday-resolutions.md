@@ -115,6 +115,7 @@ Yea:
 * Delegated as much as possible to an office assistant. Looking forward to more of this.
 
 Nay:
+
 * Wanted to continue subcontracting, but didn't make it a priority. 2018.
 * Didn't write much this year, professionally or personally (I mean, this is the only personal post!). It's actually a big sad poop. 2018.
 * Didn't join any kind of mastermind/regular guidance group. This is actually a priority still. 2018.
