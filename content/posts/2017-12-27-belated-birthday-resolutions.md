@@ -189,7 +189,7 @@ Unwrapped:
 * Made some connections kitesurfing in Brazil (friend I stayed in hostel with, friend I did downwinder with) and Morocco (yoga in the desert!)
 * Had a pretty good work/travel balance while I was traveling. Excellent, in fact, I rarely missed my deadlines, and perhaps even worked too much. My trips were long, so I still got a lot out of the travel experience, and being just me.
 
-Mint in box:
+<abbr title="So... not well attempted">Mint in box:</abbr>
 
 * Worked a bit much overall this year. Only during certain periods.
 
