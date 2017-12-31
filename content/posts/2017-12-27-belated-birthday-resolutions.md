@@ -22,7 +22,7 @@ Summary: The seventh and luckiest year so far.
     1. [P1: Give time, money, or both](#p1-give-time-money-or-both)
     1. [P2: Build friendships and lifestyle in Colorado](#p2-build-friendships-and-lifestyle-in-colorado)
 
-1. [Onward, I say!](#onward-i-say)
+1. [To a nice, long year of being present!](#to-a-nice-long-year-of-being-present)
 
 ## Why?
 
@@ -36,7 +36,7 @@ But what I can tell you, for sure, is that your mindset, values and beliefs are 
 
 All you have to do is be aware of them. [Daniel Kahneman](https://en.wikipedia.org/wiki/Thinking%2C_Fast_and_Slow) would agree :)
 
-Past: [2017](/2016/12/belated-birthday-resolutions-2016/), [2016](/2015/12/belated-birthday-resolutions-2015/), [2015](/2014/12/belated-birthday-resolutions-2014/), [2014](/2013/12/belated-birthday-resolutions/), [2013](/2012/12/belated-birthday-resolutions/) [2012](/2012/01/belated-birthday-resolutions/),
+Past: [2017](/2016/12/belated-birthday-resolutions-2016/), [2016](/2015/12/belated-birthday-resolutions-2015/), [2015](/2014/12/belated-birthday-resolutions-2014/), [2014](/2013/12/belated-birthday-resolutions/), [2013](/2012/12/belated-birthday-resolutions/), [2012](/2012/01/belated-birthday-resolutions/)
 
 ## Thanks, previous years!
 
@@ -126,7 +126,7 @@ __Grade: B+__
 The "big changes" I felt coming in this area mostly materialized around an inner realization:
 
 * I am a leader. I am confident. Either I know the way, or I know how to go about finding the way.
-* I am strong and I can attempt anything and likely succeed
+* I am strong and I can attempt anything and likely succeed.
 * I value my health and my body, and my body is finally ready to put on some muscle.
 
 Overall I would grade this a bit higher on the spiritual side. The physical side needed more attention (e.g. when I was working too hard). So I got docked.
@@ -176,7 +176,7 @@ __Grade: A+__
 
 I guess when you love something, you prioritize it. And this is something I really love. Some things changed this year in regards to travel--for example, I am a bit weary of traveling for so long without company. Simultaneously, I've grown so much through my travels, and that fuel is likely to keep me going.
 
-Unlocked:
+Unwrapped:
 
 * Set foot on South America and Africa for the first time. Two continents I'd never visited before! Ah, and so it begins...
 * Traveled solo for 2 long trips and a few short trips.
