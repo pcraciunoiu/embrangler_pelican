@@ -19,7 +19,7 @@ Summary: The seventh and luckiest year so far.
     1. [P1: Gain Weight and Strengthen](#p1-gain-weight-and-strengthen)
     1. [P1: Bold Business Changes](#p1-bold-business-changes)
     1. [P1: Travel alone and with company](#p1-travel-alone-and-with-company)
-    1. [P1: Give time, money, or both](#p1-give-time-money-or-both)
+    1. [P2: Give time, money, or both](#p2-give-time-money-or-both)
     1. [P2: Build friendships and lifestyle in Colorado](#p2-build-friendships-and-lifestyle-in-colorado)
 
 1. [To a nice, long year of being present!](#to-a-nice-long-year-of-being-present)
@@ -345,9 +345,9 @@ I really want to travel with a special someone this year. It's hard to plan this
 
 __Ultimate goal:__ Experience travel in a new way.
 
-### P1: Give time, money, or both
+### P2: Give time, money, or both
 
-This is a P2. I really believ I can do this one well though, and at the same time I don't want to overdo it. This year, as every year, I've been presented with the opportunities to give. And I'm feeling readier and readier.
+This is a P2. I really believe I can do this one well though, and at the same time I don't want to overdo it. This year, as every year, I've been presented with the opportunities to give. And I'm feeling readier and readier.
 
 * Donate $5K (or) volunteer for 30+ hours (broken up into chunks OK). These are not necessarily equivalent, just what feels right.
 * Each month, give something to someone that's totally unexpected. Maybe even a stranger. Could be worth a dollar, could be worthless, could be worth a hundred quid.
