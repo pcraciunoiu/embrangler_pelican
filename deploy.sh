@@ -1,3 +1,3 @@
 #!/bin/bash
-pipenv run make html
+/usr/local/bin/pipenv run make html
 
