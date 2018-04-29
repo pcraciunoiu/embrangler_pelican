@@ -1,5 +1,3 @@
 #!/bin/bash
-source `which virtualenvwrapper.sh`
-workon embrangler.com
-make html
-deactivate
+pipenv run make html
+

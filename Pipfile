@@ -1,0 +1,20 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[packages]
+
+Markdown = "==2.5.1"
+pelican = "==3.5.0"
+
+
+[dev-packages]
+
+
+
+[requires]
+
+python_version = "2.7"
