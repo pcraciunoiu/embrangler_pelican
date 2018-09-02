@@ -50,7 +50,15 @@ DEFAULT_PAGINATION = 6
 
 THEME = './themes/embrangler/'
 MARKUP = 'md'
-MD_EXTENSIONS = ['headerid', 'codehilite']
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {},
+        'markdown.extensions.headerid': {},
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+    },
+    'output_format': 'html5',
+}
 
 STATIC_PATHS = ['static', 'favicon.ico']
 
@@ -61,5 +69,3 @@ SITEMAP_SAVE_AS = 'sitemap.xml'
 
 # Related posts
 PLUGINS.append('plugins.related_posts')
-
-

@@ -2,7 +2,7 @@ Title: Decision, decisions: how we love and hate options
 Date: 2013-04-30 23:05
 Tags: tag1, tag2
 Summary: [TODO]
-status: draft
+Status: draft
 
 Chapter 9 of predictably irrational: best yet. Keeping our doors open affects our happiness seriously. Always networking. Always looking for new opportunities. Its bad for enjoying our current path. Mention the doors experiment. See page 191.
 
@@ -28,4 +28,3 @@ Table of contents:
 ### Sub-item 2
 
 ## Item 3?
-
