@@ -5,3 +5,4 @@ logs/
 output/
 .sass-cache/
 node_modules/
+cache/

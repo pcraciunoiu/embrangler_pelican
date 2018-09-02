@@ -23,7 +23,6 @@ Software Engineer and Junior PM, March 2013
 	* Technical lead and often solo engineer, using Django and AWS backend
 	* Tackled challenging problems with extremely tight deadlines
 	* Implemented security and encryption of student data
-	* [More here](http://uplift.agency/#i-can-efficiently-deliver-on-tight-deadlines)
 
 Software Engineer, Feb 2012
 ---------------------------
@@ -71,7 +70,7 @@ Website Administrator and Developer
 * [Coyote Creek Youth Sports](http://ccys.com)
 
 
-Skills 
+Skills
 ======
 
 Languages
