@@ -7,8 +7,8 @@ name = "pypi"
 
 [packages]
 
-Markdown = "==2.5.1"
-pelican = "==3.5.0"
+Markdown = "==2.6.11"
+pelican = "==3.7.1"
 
 
 [dev-packages]
