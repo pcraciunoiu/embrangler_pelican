@@ -1,4 +1,5 @@
 Title: Belated birthday resolutions
+Slug: belated-birthday-resolutions-2010
 Summary: Achievements for this new year of my life.
 Tags: resolution, future, success
 

@@ -1,5 +1,6 @@
 Title: Belated birthday resolutions
 Date: 2013-12-31 16:49
+Slug: belated-birthday-resolutions-2013
 Tags: resolution, future, success, happiness
 Summary: How did 2013 go, and what my goals are for 2014.
 

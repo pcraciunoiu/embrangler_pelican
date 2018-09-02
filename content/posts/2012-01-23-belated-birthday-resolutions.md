@@ -1,4 +1,5 @@
 Title: Belated birthday resolutions
+Slug: belated-birthday-resolutions-2011
 Summary: How did 2011 go, and what my goals are for 2012.
 Tags: resolution, future, success, happiness
 Time: 6:54PM

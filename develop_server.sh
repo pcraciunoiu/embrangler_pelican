@@ -62,10 +62,10 @@ function start_up(){
   $PELICAN --debug --autoreload -r $INPUTDIR -o $OUTPUTDIR -s $CONFFILE $PELICANOPTS &
   echo $! > $PELICAN_PID
   cd $OUTPUTDIR
-  python -m SimpleHTTPServer 8002 &
+  python -m pelican.server 8002 &
   echo $! > $SRV_PID
   cd $BASEDIR
-  sleep 1 && echo 'Pelican and SimpleHTTPServer processes now running in background.'
+  sleep 1 && echo 'pelican and server processes now running in background.'
 }
 
 ###
