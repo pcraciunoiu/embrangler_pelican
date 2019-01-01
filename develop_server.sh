@@ -58,6 +58,7 @@ function shut_down(){
 
 function start_up(){
   echo "Starting up Pelican and SimpleHTTPServer"
+  echo "$PELICAN --debug --autoreload -r $INPUTDIR -o $OUTPUTDIR -s $CONFFILE $PELICANOPTS..."
   shift
   $PELICAN --debug --autoreload -r $INPUTDIR -o $OUTPUTDIR -s $CONFFILE $PELICANOPTS &
   echo $! > $PELICAN_PID
