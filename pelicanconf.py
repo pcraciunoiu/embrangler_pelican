@@ -11,7 +11,7 @@ FEED_RSS = 'all.rss'
 FEED_ATOM = 'all.atom.xml'
 # TODO category feed, tag feed
 
-TIMEZONE = 'America/Los_Angeles'
+TIMEZONE = 'America/Denver'
 
 DEFAULT_LANG = 'en'
 LOCALE = ''
@@ -53,7 +53,7 @@ MARKUP = 'md'
 MARKDOWN = {
     'extension_configs': {
         'markdown.extensions.codehilite': {},
-        'markdown.extensions.headerid': {},
+        'markdown.extensions.toc': {},
         'markdown.extensions.extra': {},
         'markdown.extensions.meta': {},
     },

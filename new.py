@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import datetime
 import os
@@ -14,7 +14,7 @@ def get_filename(title):
   date = today.strftime('%Y-%m-%d')
   title = title.lower()
   title = rep_disallowed.sub('-', title)
-  return "content/posts/%s-%s.md" % (date, title)
+  return f"content/posts/{date}-{title}.md"
 
 
 def get_template_date():
@@ -59,12 +59,12 @@ if __name__ == '__main__':
     template_date = get_template_date()
     # Only create the file if it doesn't exist.
     if not os.path.exists(filename):
-      print("[created] {}".format(filename))
+      print(f"[created] {filename}")
       with open(filename, 'w') as f:
         f.write(template.format(
           title=title,
           date=template_date).strip() + '\n\n')
-    # Then edit it.
+    # Otherwise, edit it.
     else:
       print("[editing] {}".format(filename))
     os.system('vim ' + filename)
