@@ -84,7 +84,7 @@ Here's what I did well:
 
 Not so well:
 
-* Didn't write our journal most of the year. 2019.
+* Didn't write or journal most of the year. 2019.
 * A bit more reading.
 * More dance and breathwork.
 * Continue growing patience.
@@ -305,7 +305,7 @@ The <abbr title="paulspeak for 'bullets'">'lets:</abbr>
 * Sleep when I'm sleepy, and before midnight. While I may be a slight night-owl, I find I rest best when I sleep before midnight. I've tried 10pm, and 2am, and everything in between. I seem to wake up more during the night (late night/morning) if I sleep later.
 * Self-care with massage, stretching and yoga. One massage per month. Yoga every week. Stretch every day (whether invert, wrist, brief yoga).
 * Gain 5-10lb weight, 5lb muscle. This is hard on the road. Use [this guide](https://www.julian.com/guide/muscle/intro) and add bodyweight exercises to maintain.
-* Exercise for 150 minutes ) per week ([diabetes](http://www.diabetesforecast.org/2018/05-sep-oct/how-to-get-150-minutes-of.html), [sleep](https://www.sleepfoundation.org/sleep-news/study-physical-activity-impacts-overall-quality-sleep), [heart failure](https://www.greaterkashmir.com/news/life-and-style/150-minutes-of-weekly-exercise-may-cut-heart-failure-risk-study/285385.html) and a [longer life](https://well.blogs.nytimes.com/2015/04/15/the-right-dose-of-exercise-for-a-longer-life/). That's 30 minutes per day, five times a week. Ideally, this doesn't include muscle work, but it can include walks, house cleaning, walking through airports, etc.
+* Exercise for 150 minutes per week ([diabetes](http://www.diabetesforecast.org/2018/05-sep-oct/how-to-get-150-minutes-of.html), [sleep](https://www.sleepfoundation.org/sleep-news/study-physical-activity-impacts-overall-quality-sleep), [heart failure](https://www.greaterkashmir.com/news/life-and-style/150-minutes-of-weekly-exercise-may-cut-heart-failure-risk-study/285385.html) and a [longer life](https://well.blogs.nytimes.com/2015/04/15/the-right-dose-of-exercise-for-a-longer-life/)). That's 30 minutes per day, five times a week. Ideally, this doesn't include muscle work, but it can include walks, house cleaning, walking through airports, etc.
 * Meditate 10-20m daily
 * Journal 5 min every day (afternoon or eve)
 * Invert 5 min every day
@@ -328,7 +328,7 @@ This is the first time I explicitly note sexual energy in a goal. In my 20s I fe
 * Spend quality time with family.
 * Monthly (or bi-monthly?) sexual build and release
 * New sexual experiences of any kind.
-* Mentor at Uplift (and in kiting perhaps). See [this](https://minnenratta.wordpress.com/2017/01/25/things-i-have-learnt-as-the-software-engineering-lead-of-a-multinational/). 
+* Mentor at Uplift (and in kiting perhaps). See [this](https://minnenratta.wordpress.com/2017/01/25/things-i-have-learnt-as-the-software-engineering-lead-of-a-multinational/).
 
 > Avoid having people waiting on you. Don't create direct dependencies on your work or decisions, make sure people feel that they can take decisions and still stay true to the vision without referring to you.
 
@@ -364,6 +364,8 @@ Last bits of 2018 I've been craving to play games. Lots of games. Been playing q
 * Games! Board games, computer games, social games. Play at least a few hours each week.
 * Piano, writing, other creative fun. Do something creative at least once a quarter. See also [this](https://thecreativeindependent.com/guides/how-to-balance-full-time-work-with-creative-projects/).
 * Learning all along the way, enjoy every minute of it!
+
+__Ultimate goal:__ To enjoy life, laugh, get creative, exercise different parts of my brain.
 
 ## To a healthy, loving year!
 
