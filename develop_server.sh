@@ -3,7 +3,7 @@
 # This section should match your Makefile
 ##
 PELICAN=pelican
-PELICANOPTS=
+PELICANOPTS="--port 8002 --debug --autoreload"
 
 BASEDIR=$(pwd)
 INPUTDIR=$BASEDIR/content
@@ -15,9 +15,9 @@ CONFFILE=$BASEDIR/pelicanconf.py
 ###
 
 function start_up(){
-  echo "Starting up Pelican and SimpleHTTPServer"
-  echo $PELICAN --debug --autoreload -r "$INPUTDIR" -o "$OUTPUTDIR" -s $CONFFILE $PELICANOPTS...
-  $PELICAN --listen --debug --autoreload --output "$OUTPUTDIR" --settings "$CONFFILE" $PELICANOPTS "$INPUTDIR"
+  echo "Starting up Pelican..."
+  echo $PELICAN --listen --output "$OUTPUTDIR" --settings "$CONFFILE" $PELICANOPTS "$INPUTDIR"
+  $PELICAN --listen --output "$OUTPUTDIR" --settings "$CONFFILE" $PELICANOPTS "$INPUTDIR"
 }
 
 ###
