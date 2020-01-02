@@ -316,6 +316,8 @@ Affirmation:
 
 > I release emotions and channel them gently towards connection and fun, creative endeavors.
 
+I broke this down into categories of sorts:
+
 * Give
 
     * Financially, from the heart
