@@ -399,6 +399,8 @@ Affirmation:
 
 > I trust in the unknown, and allow the divine to manifest abundance and possibility through me.
 
+The main focus here is to focus on the non-physical world and what that means to me (duh! that's what spiritual amirite?!). Intuition, meditation, solitude and space are key here.
+
 * Quantuition
 
     * Develop and follow my intuition
