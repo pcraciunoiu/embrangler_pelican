@@ -17,7 +17,7 @@ CONFFILE=$BASEDIR/pelicanconf.py
 function start_up(){
   echo "Starting up Pelican..."
   echo $PELICAN --listen --output "$OUTPUTDIR" --settings "$CONFFILE" $PELICANOPTS "$INPUTDIR"
-  $PELICAN --listen --output "$OUTPUTDIR" --settings "$CONFFILE" $PELICANOPTS "$INPUTDIR"
+  pipenv run $PELICAN --listen --output "$OUTPUTDIR" --settings "$CONFFILE" $PELICANOPTS "$INPUTDIR"
 }
 
 ###

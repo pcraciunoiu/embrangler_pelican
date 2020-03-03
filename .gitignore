@@ -6,3 +6,4 @@ output/
 .sass-cache/
 node_modules/
 cache/
+pelican-plugins/
