@@ -1,7 +1,6 @@
 Title: I am a consultant.
 Date: 2020-05-14 17:21
 Tags: consulting, goals
-Status: draft
 Summary: A transition to a new identity.
 
 So it took me a while to understand what a consultant is. It's weird, in a way, but the book that clicked it all together -- or was the last book I read before it did, and therefore the missing piece of the puzzle -- was the [Secrets of Consulting](https://leanpub.com/thesecretsofconsulting).
