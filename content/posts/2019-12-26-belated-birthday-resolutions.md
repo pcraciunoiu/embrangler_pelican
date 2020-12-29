@@ -218,7 +218,7 @@ This is an opportunity to revisit the above and summarize yet again. But I'm not
 
 ## What now?
 
-If it was December 2020 today and I looked back on 2019, what would I want to celebrate?
+If it was December 2020 today and I looked back on 2020, what would I want to celebrate?
 
 Going back to 4 goals was great. I could focus on each plenty, and it felt easier to keep them top of mind as the year went by. I revisit them every month. This year, I'd like to write an update once a quarter, and post it here, sort of a quarterly reflection, a post-mortem with helpful steps for next quarter.
 
