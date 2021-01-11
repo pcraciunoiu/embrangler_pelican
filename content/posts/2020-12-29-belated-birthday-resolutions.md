@@ -44,7 +44,7 @@ The secondary theme is self-nurturing. Learning to nurture myself will also help
 
 ## Thanks, previous years!
 
-To which accomplishments of 2019 am I giving a shout-out?
+To which accomplishments of 2020 am I giving a shout-out?
 
 I am grateful to this year for:
 
@@ -72,7 +72,7 @@ Well:
 * Lots and lots of yoga.
 * Running streak in the spring/summer.
 * Regular chiropractic and massage
-* Rested more at the desk. Started using [tweeny](https://github.com/tagwohl/twenny). Standing regularly as well.
+* Rested more at the desk. Started using [twenny](https://github.com/tagwohl/twenny). Standing regularly as well.
 * Invested in my work environment - better desk, keyboard, laptop.
 * Got plenty of sleep most nights.
 * Continued eating well and local.
@@ -101,7 +101,7 @@ Well:
 
 * Gave financially, especially at the end of the year. Could have given more - I had the budget. This will roll over and motivate me to give more.
 * Gave emotionally, to family mostly.
-* Had new sexual experienced
+* Had new sexual experiences.
 * Danced a bit at home - no regular class :(
 * Traveled to Mexico early in the year, and local road trips during the summer - which were great!
 * Released emotions fairly well. At times using a recorder.
@@ -140,7 +140,7 @@ Well:
 * Did not take enough breaks during the workday. This is the main one with a health impact. I did sit/stand switch more frequently, especially in the 2nd half of the year.
 * Did not plan 3 main goals daily. This one wasn't working for me, so I won't try it again. Instead, will focus on priorities using the Passion Planner.
 * Did not write nearly as much as I hoped. Same, this one isn't working for me. I'm deciding not to lug all these failed habits year after year, so instead of carrying it over another year, I'm just gonna drop it. Someday, it may make sense to pick this up again. We did start a paid per-article program at Uplift, which may help.
-* Sometimes got into context switching, though overall it was OK.
+* Sometimes got carried away with context switching, though overall it was OK.
 
 __Ultimate goal:__ To encourage a thriving, creative mind, and feel energized about my work and my intellectual pursuits.
 
@@ -251,7 +251,7 @@ The <abbr title="paulspeak for 'bullets'">'lets:</abbr>
     * Invert 5-10m
 * No work after 8pm
 * Kite (10+ days/year). Supplement with biking or running.
-* Nutrition: do one cleanse (January), continue eating local, CSA. Drink 4+ glasses of water per day.
+* Nutrition: do one cleanse (April), continue eating local, CSA. Drink 4+ glasses of water per day.
 * Continue investing in work environment.
 * Muscle building 8-15lbs, start in April.
 
@@ -271,10 +271,10 @@ The <abbr title="paulspeak for 'bullets'">'lets:</abbr>
 * Take time off: 2 weeks per quarter
 * 3-day solo trip (February?)
 * Meditate: 15m/day
-* Breathwork sessions, once a quarter
+* Breathwork sessions, once a quarter (carry over)
 * Monthly reflections, quarterly reviews
 * Maintain a list of things I enjoy to do by myself
-* Daily and weekly gratitudes. Celebrate accomplishments.
+* Daily and weekly gratitudes. Celebrate accomplishments. Celebrate anniversaries.
 * Continue reading about emotional and sexual health.
 * Allow myself one cheat day a week - free from any to-dos and burdens.
 * Do nothing for one hour each week (during weekly me-time or on the weekend).
@@ -296,7 +296,7 @@ The <abbr title="paulspeak for 'bullets'">'lets:</abbr>
 * Plan day under-loaded, leave 1h+ for unanticipated work items, and be efficient.
 * Continue with career coach
 * Max 6 hour workdays. Half-day Fridays (end work by 2:30pm).
-* Strictly take 3 breaks during each workday.
+* Strictly take 3 15m+ breaks during each workday.
 * Leadership
     * Refine business goals, and mission.
     * Ask great questions! (carry-over)
