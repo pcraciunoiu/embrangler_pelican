@@ -9,6 +9,17 @@ Paul Craciunoiu &middot; paul [at] craciunoiu (dot) net
 Work Experience
 ===============
 
+Founder, Tech Consultant, March 2016
+---------------------------
+[Uplift](http://www.uplift.ltd/)
+
+* Founded a consultancy after freelancing for 2 years
+* Grown to 15+ employees and contractors
+* Help small companies and founders build and launch products
+* High profile clients such as Credit Karma, sweetgreen, NerdWallet
+* Specialize in building websites and mobile apps
+* Quality, product engineering
+
 Software Engineer and Junior PM, March 2013
 ---------------------------
 [Minerva Project](http://www.minervaproject.com/)
