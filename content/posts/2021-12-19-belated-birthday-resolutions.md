@@ -6,7 +6,7 @@ Summary: Resolutions after (most?) of the COVID-19 pandemic. Also with intention
 
 1. [Why?](#why)
 2. [Gut feelings](#gut-feelings)
-3. [Thanks, previous years!](#thanks-previous-years)
+3. [2021 in review](#2021-in-review)
     1. [Physical: Moving with Joy](#physical-moving-with-joy)
     1. [Emotional: Nurture All Things](#emotional-nurture-all-things)
     1. [Mental: Spacious](#mental-spacious)
@@ -49,7 +49,7 @@ This year, I'd like to focus more on intention and look at behaviors to determin
 
 That said, I'm very much a fan of measurable goals, so I'll be looking at some concrete ways to do so. One of the friction (or resistance) points of goal setting and review has been the long list of "todos", and so this year I'm making a conscious effort to limit the list lengths to 4 items at the top level.
 
-## Thanks, previous years!
+## 2021 in review
 
 I want to express gratitude in 2021 for:
 
@@ -153,7 +153,7 @@ The reason for the A is overcoming the challenge of business growth and focus. E
 
 Well:
 
-* Plan day under-loaded, leave 1h+ for unanticipated work items, and be efficient. - Done, I even left 2 days.
+* Plan day under-loaded, leave 1h+ for unanticipated work items, and be efficient. - Done, I even left 2 hours.
 * Continue with career coach - Done, though a bit less.
 * Max 6 hour workdays. Half-day Fridays (end work by 2:30pm).
     * Done, but I think this goal harmed other goals (headaches also). Instead of this, I'd like to set a time within which I work, and aim to finish early instead. So I'm looking at 10-6 now, and would love to finish by 4 majority of days.
@@ -291,24 +291,28 @@ I feel drawn to more cardio, but I've been resisting it.
 The <abbr title="paulspeak for 'bullets'">'lets:</abbr>
 
 1. Do at least one hour of movement per day. Bonus if 20 minutes or more are high-intensity (cardio).
-  * Live with the seasons and with the day/night cycle.
-  * Plan time away from the screen around sunrise and sunset - use a simple routine, like misting the plants, to center and kick off the break.
-  * Ground 2x daily, at least 5 minutes each time (including  barefood outside).
+
+    * Live with the seasons and with the day/night cycle.
+    * Plan time away from the screen around sunrise and sunset - use a simple routine, like misting the plants, to center and kick off the break.
+    * Ground 2x daily, at least 5 minutes each time (including  barefood outside).
 
 2. Move with ease.
-  * Hike, swim, run, bike, rock climb - do what's easiest. Allow myself to have options. Take advantage of what opportunities are around me, with the seasons or with facilities.
-  * Continue working with trainer. Increase cardio in strength workouts.
-  * Ease in budget as well. Invest in personal health, aim to spend towards it (aim to hit this and think of it as a minimum). Includes gym spending, preventative care, work environment support
+
+    * Hike, swim, run, bike, rock climb - do what's easiest. Allow myself to have options. Take advantage of what opportunities are around me, with the seasons or with facilities.
+    * Continue working with trainer. Increase cardio in strength workouts.
+    * Ease in budget as well. Invest in personal health, aim to spend towards it (aim to hit this and think of it as a minimum). Includes gym spending, preventative care, work environment support
 
 3. Invest in office health and balance (also related to mental)
-    * fight dry eye (humidifier, eye drops, diffuser)
-    * kettlebell, trampoline
-    * Stand right after breakfast and after lunch
+
+      * fight dry eye (humidifier, eye drops, diffuser)
+      * kettlebell, trampoline
+      * Stand right after breakfast and after lunch
 
 4. Gut health
-    * balance gut flora (bacteria), eliminate parasites
-    * reduce bloat and gas
-    * gluten free for 3+ months, dairy free for 1+ month
+
+      * balance gut flora (bacteria), eliminate parasites
+      * reduce bloat and gas
+      * gluten free for 3+ months, dairy free for 1+ month
 
 # Emotional: Embrace What Is
 
@@ -325,23 +329,26 @@ Affirmation:
 The <abbr title="paulspeak for 'bullets'">'lets:</abbr>
 
 1. Healthier relationship with work. How to do this?
-    * I associate too much self worth with working hard and being dependable, responsive, etc
-    * Treat my office with love and positivity. Notice if I feel stress or resistance in this room.
-    * If I step away, I fear that people will think less of me, when in fact I'm holding myself to a much higher bar than others would.
-    * Switch sides - imagine what you would think if you were the other (empathy!) and realize it's much gentler, usually, than what you imagine from this side
+
+      * I associate too much self worth with working hard and being dependable, responsive, etc
+      * Treat my office with love and positivity. Notice if I feel stress or resistance in this room.
+      * If I step away, I fear that people will think less of me, when in fact I'm holding myself to a much higher bar than others would.
+      * Switch sides - imagine what you would think if you were the other (empathy!) and realize it's much gentler, usually, than what you imagine from this side
 
 2. Surrender and take control.
-    * Anger is a blanket emotion. Do I feel enslaved by all my responsibilities? Wanting to break free? Do I feel a lack of control?
-    * Find more freedom in my daily schedule (or lack thereof) and my life.
-    * Release through movement (kitesurf, rock climb, swim, yoga/stretch).
-    * Accept doing nothing more often. Especially when I'm alone.
+
+      * Anger is a blanket emotion. Do I feel enslaved by all my responsibilities? Wanting to break free? Do I feel a lack of control?
+      * Find more freedom in my daily schedule (or lack thereof) and my life.
+      * Release through movement (kitesurf, rock climb, swim, yoga/stretch).
+      * Accept doing nothing more often. Especially when I'm alone.
 
 3. Collaboration
-    * This year will be a lot about collaboration and empowering others around me to do their best and shine, while pointing my personal and professional life in desirable, sustainable, rewarding directions.
-    * Lean on others, guide others also. Socialize and get out more.
-    * Find joy and teamwork, share fun experiences, etc. We hired help for this and hope to do more!
-    * Seek others perspective, proactively, more frequently. Maybe ask questions about what they think of your contribution or of a shared experience, or an experience you may not have had and want to understand.
-    * Get coached more on biz side. Small business group as well.
+
+      * This year will be a lot about collaboration and empowering others around me to do their best and shine, while pointing my personal and professional life in desirable, sustainable, rewarding directions.
+      * Lean on others, guide others also. Socialize and get out more.
+      * Find joy and teamwork, share fun experiences, etc. We hired help for this and hope to do more!
+      * Seek others perspective, proactively, more frequently. Maybe ask questions about what they think of your contribution or of a shared experience, or an experience you may not have had and want to understand.
+      * Get coached more on biz side. Small business group as well.
 
 # Mental: Part of a Whole
 
@@ -362,23 +369,26 @@ What are my strengths and natural inclinations? Do they serve me? How can those 
 The <abbr title="paulspeak for 'bullets'">'lets:</abbr>
 
 1. Breathe deeply, frequently.
-  * Detach, release,  Fight the "one more thing and then I'm done" mindset that drags on staring at the screen.
-  * Attach breathing to small activities, like taking a sip of water/tea.
-  * Remember, 99.99% of mental panic is unnecessary - don't get so attached to what the mind is telling you right now.
-  * Pay attention to my thought patterns: making myself feel bad about any failure or shortcoming
+
+    * Detach, release,  Fight the "one more thing and then I'm done" mindset that drags on staring at the screen.
+    * Attach breathing to small activities, like taking a sip of water/tea.
+    * Remember, 99.99% of mental panic is unnecessary - don't get so attached to what the mind is telling you right now.
+    * Pay attention to my thought patterns: making myself feel bad about any failure or shortcoming
 
 2. Office habits
-  * Some of these are spoken about in the physical section, like having fun with kettlebell and trampoline
-  * Taking 5m breaks every hour has been working. Mindset being that, if I miss one it's OK, try and take 10 minutes the next hour. Have not had headaches as frequently thanks to this.
-  * Kick off other breaks with easy routines - brainstorm this.
-  * Focused within 10-6. Would love to finish by 4 majority of days. Outside this window it's brief emails or replies, only (ideally <30m) and not frequently - say, 1x morning and 2x evening, on the busiest of days.
+
+    * Some of these are spoken about in the physical section, like having fun with kettlebell and trampoline
+    * Taking 5m breaks every hour has been working. Mindset being that, if I miss one it's OK, try and take 10 minutes the next hour. Have not had headaches as frequently thanks to this.
+    * Kick off other breaks with easy routines - brainstorm this.
+    * Focused within 10-6. Would love to finish by 4 majority of days. Outside this window it's brief emails or replies, only (ideally <30m) and not frequently - say, 1x morning and 2x evening, on the busiest of days.
 
 3. Lean into my strengths
-    * Similar idea to [zone of genius](https://www.forbes.com/sites/briannawiest/2018/09/26/how-to-get-into-the-zone-of-genius-and-unlock-your-highest-potential/?sh=3979774d5672)
-    * Do more of what I'm good at. Create my day and week such that those mental efforts have a higher chance of heading in the right direction, and of going uninterrupted for 60-90 minutes.
-    * Examples: deep focus. Creative work. Leadership, ideation, big picture focus.
-    * Ask great questions (carry over)
-    * Hire 2+ more employees.
+
+      * Similar idea to [zone of genius](https://www.forbes.com/sites/briannawiest/2018/09/26/how-to-get-into-the-zone-of-genius-and-unlock-your-highest-potential/?sh=3979774d5672)
+      * Do more of what I'm good at. Create my day and week such that those mental efforts have a higher chance of heading in the right direction, and of going uninterrupted for 60-90 minutes.
+      * Examples: deep focus. Creative work. Leadership, ideation, big picture focus.
+      * Ask great questions (carry over)
+      * Hire 2+ more employees.
 
 # Spiritual: Wholehearted Collaboration
 
@@ -395,22 +405,25 @@ Bring forth beautiful creations through collaboration. This is tied into the emo
 The <abbr title="paulspeak for 'bullets'">'lets:</abbr>
 
 1. Wholeheartedness. Integrity.
-    * Find love and balance in every action and thought.
-    * Love where I live. Love the home. Make it feel more homey. Invest in it.
-    * Seek contentment and share contentment with others. Or peace.
-    * Depend on myself. Set myself up for success and take small steps before running at a target.
+
+      * Find love and balance in every action and thought.
+      * Love where I live. Love the home. Make it feel more homey. Invest in it.
+      * Seek contentment and share contentment with others. Or peace.
+      * Depend on myself. Set myself up for success and take small steps before running at a target.
 
 2. Big picture focus
-    * Less busywork, more presence.
-    * Reminder that yes, detail oriented output is valuable, but not focusing on the minutia while neglecting what's the true reason behind doing it.
-    * Look at teams and compounded benefits, systems. Lead with inspiration, motivation, by example, and with kindness.
-    * Meditate 2x/day. Maybe a walking meditation after work? 10m inversion? Standing out in the backyard?
+
+      * Less busywork, more presence.
+      * Reminder that yes, detail oriented output is valuable, but not focusing on the minutia while neglecting what's the true reason behind doing it.
+      * Look at teams and compounded benefits, systems. Lead with inspiration, motivation, by example, and with kindness.
+      * Meditate 2x/day. Maybe a walking meditation after work? 10m inversion? Standing out in the backyard?
 
 3. Detach from ego
-    * Surrender outcome and focus on collaboration. Inspired somewhat by lateral thinking - suspend immediate judgment and allow for possibility.
-    * Dissolution of ego in favor of team and shared vision.
-    * Remember that people just want to be happy. Don't panic when you fall short, just accept it, take responsibility and ownership, learn from it. It's OK to be a shitty person sometimes, people have shitty days.
-    * 2+ day meditation retreat, deep inner journey, or some sort of multiday inner commitment and exploration.
+
+      * Surrender outcome and focus on collaboration. Inspired somewhat by lateral thinking - suspend immediate judgment and allow for possibility.
+      * Dissolution of ego in favor of team and shared vision.
+      * Remember that people just want to be happy. Don't panic when you fall short, just accept it, take responsibility and ownership, learn from it. It's OK to be a shitty person sometimes, people have shitty days.
+      * 2+ day meditation retreat, deep inner journey, or some sort of multiday inner commitment and exploration.
 
 ## Final Reflection
 
@@ -424,5 +437,9 @@ Spring here was one of the wettest we've had, and somehow the rest of the year w
 * My birthday was bittersweet, I cried and definitely feel older.
 * Traveled and it went very well. Somehow wrapped up another year COVID-free.
 * Business doubled this year. Started off the year strong and kept growing. Stressful, at times - reigning this in for 2022 may be a challenge, but I hope at least half of the hard part is over :)
+* Living with the seasons - through diet (CSA) and exercise (more in summer, less in winter)
+* Hot/cold experience at Strawberry Park
+* Biggest snow storm ever this year - with pictures!
+* First Red Rocks experience! Dirty heads.
 
 To living life with ease, wholeheartedly. To treating others and myself with integrity and kindness!
