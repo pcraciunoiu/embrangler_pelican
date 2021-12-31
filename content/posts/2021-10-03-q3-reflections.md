@@ -7,7 +7,7 @@ Another quarter in the past. Amazing to be alive and healthy, and even thriving,
 
 Grew tomatoes in the garden this year and, really, easily over 1,000 cherry tomato fruits to harvest. Garlic did pretty well considering it didn't even get watered - and in big part that's thanks to a rainy spring. Excited to have had some rewards for the labor, and continue to grow into 2022.
 
-# REvisit resolutions
+# Revisit resolutions
 
 Here were my topics for the year:
 

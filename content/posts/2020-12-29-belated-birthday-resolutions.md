@@ -1,5 +1,6 @@
 Title: Belated Birthday Resolutions
 Date: 2020-12-29 16:18
+Slug: belated-birthday-resolutions-2020
 Tags: resolution, future, fulfillment, growth
 Summary: Resolutions from a global pandemic kinda year.
 
