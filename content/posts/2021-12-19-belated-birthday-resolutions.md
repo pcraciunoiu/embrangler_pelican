@@ -26,11 +26,6 @@ I like to start with why. Why am I doing this? To have a sense of direction and 
 
 This year I'm changing my process to be more top-down, and intention based. The key results - measurable items, are still there, but they were connected last.
 
-Two main stressors came through this year:
-
-1. Physical pain and nutrition. I've given myself more reign to gain muscle, and have in the process hurt my muscles and my digestion. 2022 seeks to continue working the muscles, with ease, while easing in with nutrition and heart strengthening movement.
-2. Mentally, there was too much going on at times, too many hats to wear, and things to balance. I've joined a business group to help with this, in part, but my day to day practices have fallen behind. Also, I've had more frequent headaches.
-
 Past: [2021](/2020/12/belated-birthday-resolutions-2020/), [2020](/2019/12/belated-birthday-resolutions-2019/), [2019](/2018/12/belated-birthday-resolutions-2018/), [2018](/2017/12/belated-birthday-resolutions-2017/), [2017](/2016/12/belated-birthday-resolutions-2016/), [2016](/2015/12/belated-birthday-resolutions-2015/), [2015](/2014/12/belated-birthday-resolutions-2014/), [2014](/2013/12/belated-birthday-resolutions/), [2013](/2012/12/belated-birthday-resolutions/), [2012](/2012/01/belated-birthday-resolutions/).
 
 ## Gut feelings
@@ -51,15 +46,10 @@ That said, I'm very much a fan of measurable goals, so I'll be looking at some c
 
 ## 2021 in review
 
-I want to express gratitude in 2021 for:
+Two main stressors came through this year:
 
-* Gaining muscle. I've gained 15 lbs this year, much of it muscle, and I'm proud of it. Now, I can focus more on strength and balance, supporting my body in more ways, and with help.
-* Travel - went to Europe and really enjoyed it!
-* Disconnected with hot springs trips a few times, and really enjoyed one with family and a new location with my partner at Strawberry Park.
-* Saw my nephew more. Played, talked to him. Lovely, joyful kid!
-* Hung out with a group of friends several times and had so much fun!
-* Business has grown - doubled, really, in a year. Bringing on challenges and many rewards.
-* Gratitude jar - one weekly gratitude, a sustained habit for the year.
+1. Physical pain and nutrition. I've given myself more reign to gain muscle, and have in the process hurt my muscles and my digestion. 2022 seeks to continue working the muscles, with ease, while easing in with nutrition and heart strengthening movement.
+2. Mentally, there was too much going on at times, too many hats to wear, and things to balance. I've joined a business group to help with this, in part, but my day to day practices have fallen behind. Also, I've had more frequent headaches.
 
 For 2021 I wanted to:
 
@@ -435,11 +425,15 @@ Spring here was one of the wettest we've had, and somehow the rest of the year w
 * Furnished the home bit by bit, decorated.
 * Christmas was beautiful, full of gifts.
 * My birthday was bittersweet, I cried and definitely feel older.
-* Traveled and it went very well. Somehow wrapped up another year COVID-free.
+* Traveled and it went very well. Somehow wrapped up another year COVID-free. Really enjoyed Europe.
 * Business doubled this year. Started off the year strong and kept growing. Stressful, at times - reigning this in for 2022 may be a challenge, but I hope at least half of the hard part is over :)
 * Living with the seasons - through diet (CSA) and exercise (more in summer, less in winter)
-* Hot/cold experience at Strawberry Park
+* Disconnected with hot springs trips a few times, and really enjoyed one with family and a new location with my partner at Strawberry Park + hot/cold experience
 * Biggest snow storm ever this year - with pictures!
 * First Red Rocks experience! Dirty heads.
+* Gaining muscle. I've gained 15 lbs this year, much of it muscle, and I'm proud of it. Now, I can focus more on strength and balance, supporting my body in more ways, and with help.
+* Saw my nephew more. Played, talked to him. Lovely, joyful kid!
+* Hung out with a group of friends several times and had so much fun!
+* Gratitude jar - one weekly gratitude, a sustained habit for the year.
 
 To living life with ease, wholeheartedly. To treating others and myself with integrity and kindness!
