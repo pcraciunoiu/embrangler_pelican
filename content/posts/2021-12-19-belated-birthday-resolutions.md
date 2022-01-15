@@ -26,7 +26,7 @@ I like to start with why. Why am I doing this? To have a sense of direction and 
 
 This year I'm changing my process to be more top-down, and intention based. The key results - measurable items, are still there, but they were connected last.
 
-Past: [2021](/2020/12/belated-birthday-resolutions-2020/), [2020](/2019/12/belated-birthday-resolutions-2019/), [2019](/2018/12/belated-birthday-resolutions-2018/), [2018](/2017/12/belated-birthday-resolutions-2017/), [2017](/2016/12/belated-birthday-resolutions-2016/), [2016](/2015/12/belated-birthday-resolutions-2015/), [2015](/2014/12/belated-birthday-resolutions-2014/), [2014](/2013/12/belated-birthday-resolutions/), [2013](/2012/12/belated-birthday-resolutions/), [2012](/2012/01/belated-birthday-resolutions/).
+Past: [2021](/2020/12/belated-birthday-resolutions-2020/), [2020](/2019/12/belated-birthday-resolutions-2019/), [2019](/2018/12/belated-birthday-resolutions-2018/), [2018](/2017/12/belated-birthday-resolutions-2017/), [2017](/2016/12/belated-birthday-resolutions-2016/), [2016](/2015/12/belated-birthday-resolutions-2015/), [2015](/2014/12/belated-birthday-resolutions-2014/), [2014](/2013/12/belated-birthday-resolutions-2013/), [2013](/2012/12/belated-birthday-resolutions-2012/), [2012](/2012/01/belated-birthday-resolutions-2011/), [2011](/2010/12/belated-birthday-resolutions-2010/).
 
 ## Gut feelings
 
