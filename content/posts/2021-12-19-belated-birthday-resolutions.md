@@ -284,7 +284,7 @@ The <abbr title="paulspeak for 'bullets'">'lets:</abbr>
 
     * Live with the seasons and with the day/night cycle.
     * Plan time away from the screen around sunrise and sunset - use a simple routine, like misting the plants, to center and kick off the break.
-    * Ground 2x daily, at least 5 minutes each time (including  barefood outside).
+    * Ground 2x daily, at least 5 minutes each time (including  barefoot outside).
 
 2. Move with ease.
 
