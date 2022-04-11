@@ -1,6 +1,6 @@
 Title: Q1 Reflections
 Date: 2022-04-10 20:10
-Tags: tag1, tag2
+Tags: reflections
 Summary: Reflections on first quarter of 2022, with a look at yearly resolutions.
 
 I'm writing these from the Dominican Republic, so I'm extra happy and relaxed. Very grateful to be here, and it feels like the post-pandemic world. Still feel like I'm thriving. I give myself permission to keep these reflections a bit brief, a) because I want to make the most of being here, and b) it's only the first quarter of the year, there's more to come!
@@ -100,17 +100,12 @@ Celebrations:
 * Passing feedback to help improve a team members' work has me worried at times, and it's helpful to remember people want to do well, and they want to improve.
 
 
-
 # Present and future
 
-To frame in a more mindful way (inspired by Headspace meditations): How are you now? How do you want to be feeling and living?
+How are you now? How do you want to be feeling and living?
 
-You feel joy and lightness. Getting back to the gym, traveling, socializing, eating with the seasons. So many good experiences in Q3! You feel very connected to nature. One remarkable benefit since returning from Europe has been getting up early - at the crack of dawn really.
+I feel so much joy for being on this kite trip in the DR, and even before this for celebrating family birthdays, spending time with family, traveling, getting married to my partner. Grateful for my partner and for our relationship growing, our open conversations, our hopes for improvement.
 
-It's harder to write in the second person I'm noticing - so will switch for now.
+The biggest stressors have been at work - project deliverables, budgets, dotting all the i's. Hiring a perfectionist and having to mediate that with the client. Overall, though, it's been less stress than before, and even though the business has grown, the stress overall has not. Excited for sales improvements coming soon, to help us with larger projects.
 
-Q4 is a wrap up of the year. It's time to slow down and live even more spaciously than before. It's not about stopping altogether, more about steady, slow flow. Look forward to the CSA for the 2nd year in a row. Also will be rounding out the first full year in a new house. A couple of trips. Family time. Vacation. Smooth transitions. Guiding the way with patience, nurture. I'm really content with where I'm at and contentfully looking to the next 3 months, as well.
-
-With Uplift, funny I was looking forward to more sales and marketing. I ended up de-prioritizing marketing altogether, since we are getting plenty of referrals through our network. Focus was a lot more on HR, project management, and sales.
-
-During trip to Europe/vacation I got the chance to reflect more on who I am. I'm a nourishing leader and a guide. I have incredible focus, and steadiness. I'm finding more and more balance and contentment in sustained growth (versus do-it-fast and worry about it later).
+I continue to think more long term and feel more relaxed about time and that's helped me enjoy the present even more. I remember a moment listening to my partner's family work through some challenges, and noting how "old me" would have tuned out or tried to talk more, but instead it felt good to just listen, it seemed like that's what was needed.
