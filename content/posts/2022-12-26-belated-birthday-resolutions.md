@@ -5,15 +5,22 @@ Tags: resolution, future, fulfillment, growth
 Summary: Resolutions after a year of (world?) ups and downs. Coming of (middle) age.
 
 1. [Why?](#why)
-2. [Gut feelings](#gut-feelings)
-3. [2022 in review](#2022-in-review)
-    1. [2021 goals](#2021-goals)
 
-1. [What now?](#what-now)
+2. [Gut feelings](#gut-feelings)
+
+3. [2022 in review](#2022-in-review)
     1. [Physical: Move With Ease](#physical-move-with-ease)
     1. [Emotional: Embrace What Is](#emotional-embrace-what-is)
     1. [Mental: Part of a Whole](#mental-part-of-a-whole)
     1. [Spiritual: Wholehearted Collaboration](#spiritual-wholehearted-collaboration)
+    1. [2021 goals](#2021-goals)
+
+1. [What now?](#what-now)
+    1. [Physical: Bolster and Balance](#physical-bolster-and-balance)
+    1. [Emotional: Kindness and Support](#emotional-kindness-and-support)
+    1. [Mental: Guide and Surrender](#mental-guide-and-surrender)
+    1. [Spiritual: Float and Observe](#spiritual-float-and-observe)
+
 1. [Final reflection](#final-reflection)
 
 ## Why?
@@ -22,7 +29,7 @@ Why do these resolutions? To add purpose (direction), growth and focus on what I
 
 Continuing with a top-down, intentional approach, and key results added and connected after.
 
-Past:  [2022](/2021/12/belated-birthday-resolutions-2010/), [2021](/2020/12/belated-birthday-resolutions-2020/), [2020](/2019/12/belated-birthday-resolutions-2019/), [2019](/2018/12/belated-birthday-resolutions-2018/), [2018](/2017/12/belated-birthday-resolutions-2017/), [2017](/2016/12/belated-birthday-resolutions-2016/), [2016](/2015/12/belated-birthday-resolutions-2015/), [2015](/2014/12/belated-birthday-resolutions-2014/), [2014](/2013/12/belated-birthday-resolutions-2013/), [2013](/2012/12/belated-birthday-resolutions-2012/), [2012](/2012/01/belated-birthday-resolutions-2011/), [2011](/2010/12/belated-birthday-resolutions-2010/).
+Past:  [2022](/2021/12/belated-birthday-resolutions-2021/), [2021](/2020/12/belated-birthday-resolutions-2020/), [2020](/2019/12/belated-birthday-resolutions-2019/), [2019](/2018/12/belated-birthday-resolutions-2018/), [2018](/2017/12/belated-birthday-resolutions-2017/), [2017](/2016/12/belated-birthday-resolutions-2016/), [2016](/2015/12/belated-birthday-resolutions-2015/), [2015](/2014/12/belated-birthday-resolutions-2014/), [2014](/2013/12/belated-birthday-resolutions-2013/), [2013](/2012/12/belated-birthday-resolutions-2012/), [2012](/2012/01/belated-birthday-resolutions-2011/), [2011](/2010/12/belated-birthday-resolutions-2010/).
 
 ## Gut check
 
@@ -31,6 +38,7 @@ I like to start with a quick gut check - what's top of the wishlist? What dreams
 The theme for 2023 is… a bit more nuanced than a single word I could find. Here are a few: Bolster. Support. Enhance. Channel. Strengthen.
 
 I could go with "bolster":
+
 * as a noun, it means prop, pillow, cushion
 * as a verb, it means to increase comfort, to help stabilize or raise
 
@@ -249,12 +257,12 @@ I'm proud to have continued quarterly reflections in 2022 (Q4 is part of this po
 
 on this blog. These quarterly reviews provided quality time with myself and a look at the general direction of each goal. Since I spend so much time reflecting on the year, I won't do a separate quarterly reflection for Q4 - it's incorporated into this post. And without further ado, 2022's intentions:
 
-* [Physical: Bolster and balance](#physical-bolster-and-balance)
-* [Emotional: TODO](#emotional-embrace-what-is)
-* [Mental: TODO](#mental-part-of-a-whole)
-* [Spiritual: TODO](#spiritual-wholehearted-collaboration)
+* [Physical: Bolster and Balance](#physical-bolster-and-balance)
+* [Emotional: Kindness and Support](#emotional-kindness-and-support)
+* [Mental: Guide and Surrender](#mental-guide-and-surrender)
+* [Spiritual: Float and Observe](#spiritual-float-and-observe)
 
-# Physical: 
+# Physical: Bolster and Balance
 
 2022  was an amazing year for my physical well being. I feel as fit as ever, sleep pretty well (though I'd like to get up earlier), and learned more about my glucose levels (and that glucose and cholesterol levels are connected).
 
@@ -271,7 +279,7 @@ Affirmation:
     * Adrenals
     * Minerals
     * Get sunlight, IR and NIR light in eves, reduce bright lights
-    * TBD what more
+    * Pull in steps from partner's research
 
 2. Strong body that supports my adventures
 
@@ -282,7 +290,7 @@ Affirmation:
     * Use the new goodies that my partner got me - massage gun
     * Get back into swimming
 
-# Emotional: 
+# Emotional: Kindness and Support
 
 One of the struggles I have when things get stressful is that I blame myself and put myself through additional suffering, worry. I sleep late, skip breaks or other healthy habits, and try to sit down and fix whatever's broken or what's worrying me. But, a lot of times if I didn't worry or spend so much time trying to fix things, I'd still find myself more or less in the same place.
 
@@ -310,7 +318,7 @@ Affirmation:
     * Is my worry both important and urgent? How sure am I that it's both? This is similar to last year's step-away-it-s-OK.
     * Love others first. A bit each day. Give first. Then ask for what I need or want.
 
-# Mental: 
+# Mental: Guide and Surrender
 
 I can get so caught up in worries and what I'm trying to solve, that I ignore the outside world and dig deep inward. Instead, I could take 2 minutes to breathe, feel into my body and senses, and trust that it's OK. Feel what's arising and embrace the present as-is. Surrender to what the future may bring. I can be laser focused, which is great for GSD, but I'm missing on the inspiration and sustainable energy from the present as-is.
 
@@ -324,14 +332,20 @@ Affirmation:
 
 1. Guide and direct myself and others, with attention and mindfulness.
 
+    * This ties in with the emotional side. Think kind thoughts. Take a breather, and then direct.
+    * Pay attention to feelings of panic, worry, stress, urgency.
+    * Step away, it's okay. Honor those mental breaks. Detach, come up for air. Then revisit.
+
 2. Surrender
 
     * Deep breaths more frequently. Let go of this fight-or-flight, take some space and find joy/curiosity and support/comfort in the present, in what's going on. There is still so much goodness.
     * How about making a list of must-dos? Setting the bar lower and looking at everything else as a bonus? Looking at it as "I can do this in a relaxed state". At least then, I can reduce time spent feeling like I'm behind/a failure/etc
         * Select and use my Delegate Doc for this
-        * How to use passion planner this year
+        * How to use passion planner this year?
 
-# Spiritual: 
+# Spiritual: Float and Observe
+
+Be present with the world. Spend quality time with myself, in nature, and connecting with others.
 
 Intention:
 
