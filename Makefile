@@ -31,7 +31,7 @@ post1:
 
 index.html:
 	cp -r "$(OLD_CONTENT)" "$(OUTPUTDIR)/"
-	poetry run $(PELICAN) -o "$(OUTPUTDIR)" -s "$(CONFFILE)" $(PELICANOPTS) "$(INPUTDIR)"
+	$(PELICAN) -o "$(OUTPUTDIR)" -s "$(CONFFILE)" $(PELICANOPTS) "$(INPUTDIR)"
 	rm -r "$(OUTPUTDIR)/category" "$(OUTPUTDIR)/author"
 
 clean:
@@ -41,6 +41,6 @@ devserver:
 	"$(BASEDIR)/develop_server.sh"
 
 publish:
-	poetry run $(PELICAN) "$(INPUTDIR)" --output "$(OUTPUTDIR)" --settings "$(PUBLISHCONF)" $(PELICANOPTS)
+	$(PELICAN) "$(INPUTDIR)" --output "$(OUTPUTDIR)" --settings "$(PUBLISHCONF)" $(PELICANOPTS)
 
 .PHONY: html help clean serve devserver publish
