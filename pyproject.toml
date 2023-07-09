@@ -5,7 +5,7 @@ description = ""
 authors = ["Paul Craciunoiu <paul@craciunoiu.net"]
 
 [tool.poetry.dependencies]
-python = "3.11.0"
+python = "3.11.4"
 Markdown = "<4"
 pelican = "<5"
 
