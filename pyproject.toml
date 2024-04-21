@@ -2,10 +2,10 @@
 name = "embrangler"
 version = "0.1.0"
 description = ""
-authors = ["Paul Craciunoiu <paul@craciunoiu.net"]
+authors = ["Paul Craciunoiu <paul@craciunoiu.net>"]
 
 [tool.poetry.dependencies]
-python = "3.11.4"
+python = "3.11.9"
 Markdown = "<4"
 pelican = "<5"
 

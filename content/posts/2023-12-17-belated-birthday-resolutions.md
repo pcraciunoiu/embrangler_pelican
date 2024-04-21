@@ -19,7 +19,7 @@ Summary: Resolutions of a year of (partially) coming to terms with aging, I ain'
 	1. [Physical: Steady and Balanced](#physical-steady-and-balanced)
 	1. [Emotional: Warmth and Connectedness](#emotional-warmth-and-connectedness)
 	1. [Mental: Tranquility, Roots and Leadership](#mental-tranquility-roots-and-leadership)
-	1. [Spiritual: Float and Observe](#spiritual-float-and-observe)
+	1. [Spiritual: Fly and Play](#spiritual-fly-and-play)
 
 1. [Final reflection](#final-reflection)
 
@@ -348,7 +348,7 @@ The main one here is to relax my mind and not always be thinking I must be doing
 	* Network and maintain relationships with clients, contractors, etc
 
 
-## Spiritual: 
+## Spiritual: Fly and Play
 
 Spiritually I do feel a bit more lost, and I've been wondering if that's because I'm getting what I need so I can't think of what's missing? I think in part that's true. With the amazing nature journeys this year in Saratoga, kiting and learning to foil, medicinal journeys at home and a decently long few-week period of dreams sort of "forecasting" what's about to happen, I felt surprisingly content with my spirits. The stress weighed on me though, so a bit more deliberate practice and appreciation for the spirit would be helpful.
 
