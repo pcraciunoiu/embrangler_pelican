@@ -76,6 +76,7 @@ Celebrations:
 * Continued therapy
 * Meditations, workouts, emotional releases
 * Played with friends, spent time with family, grilled
+* Made friends/connections kiteboarding, some of which I hope to see again soon!
 * More detached from work, relaxed more in the afternoons.
 * Connected more deeply with my partner
 * Continued awareness of stress state/PNS
@@ -85,7 +86,6 @@ Room for improvement:
 
 * Still tensing myself up, chasing stuff during the workday and sometimes after, trying to keep busy.
 * Had a difficult disagreement with my partner, still processing that.
-* Didn't really meet new people, outside of my trip.
 * Would still like to see my parents more
 
 ## Mental: Tranquility, Roots and Leadership
