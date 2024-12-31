@@ -1,4 +1,4 @@
-Title: New blog post: Q3 reflections
+Title: Q3 reflections
 Date: 2024-11-09 11:13
 Tags: reflections
 Summary: Reflections on Q3 of 2024. Family support, prioritize life over work, travel, and loving the winds as usual. Feeling strong and healthy.

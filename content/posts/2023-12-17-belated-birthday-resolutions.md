@@ -369,7 +369,7 @@ Affirmation:
 	- Feel solidarity with the world and with those close to me.
 	- Meditate 2x/day OR 20m at once
 	- Continued inner journeys.
-1. Nature and beauty
+3. Nature and beauty
 	* Spend time in nature. Explore somewhere new. Enjoy the usual places fully, presently.
 	* Appreciate the beauty around me. Kitties. Partner. My own body as it is.
 
