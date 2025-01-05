@@ -1,4 +1,5 @@
 Title: Q3 reflections
+Slug: q3-reflections-2024
 Date: 2024-11-09 11:13
 Tags: reflections
 Summary: Reflections on Q3 of 2024. Family support, prioritize life over work, travel, and loving the winds as usual. Feeling strong and healthy.

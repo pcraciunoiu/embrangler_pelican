@@ -1,4 +1,5 @@
 Title: Q2 reflections
+Slug: q2-reflections-2024
 Date: 2024-07-30 17:38
 Tags: reflections
 Summary: Reflections on the second quarter of 2024, and first half - fun, stress release, stepping back and maybe being OK with it.

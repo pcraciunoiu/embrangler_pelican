@@ -38,6 +38,7 @@ As a quick gut check, what's on my mind heading into 2025, what would serve me a
 Sounds silly to write this but, being nicer, more considerate? My stress levels have been quite high the last few weeks. Compassion, starting with self compassion, may be key.
 
 Top 10 values, in order:
+
 1. Health - placing importance on physical and emotional wellbeing
 2. Relationships -  connections between and among people
 3. Play - imagination, spontaneity, the ability to be amused
@@ -47,9 +48,9 @@ Top 10 values, in order:
 7. Privacy - the need for solitude or separateness
 8. Flexibility - the ability to adapt to different environments, situations or change
 9. Education - placing importance on learning and education
-10. Achievement - places importance on the fulfillment of activities, golf, tasks or work
+10. Achievement - places importance on the fulfillment of activities, goals, tasks or work
 
-Rereading my 2023 reflections, I find myself having stressed or urgently chased solving problems, especially at work. The last quarter of the year especially felt too busy, too intense. Adding to that, my parents are getting older and struggling with certain things.
+Rereading my 2024 reflections, I find myself having stressed or urgently chased solving problems, especially at work. The last quarter of the year especially felt too busy, too intense. Adding to that, my parents are getting older and struggling with certain things.
 
 Another big theme for me over the years has been feeling the pressure of time. How can I - reframe my perspective to feel like I have plenty of time?
 
@@ -63,7 +64,7 @@ Sidenote: I'm excited to be dictating this post for a change. I've been wanting 
 
 As spring kicked in and the weather got warmer, I began spending more time outdoors, heading to Wyoming, and generally working less. I shared with my team that I was kind of burnt out. That lasted for quite a while, and I was fortunate enough that the business was sufficiently strong to get through this period, with help from my coworkers of course. I was looking forward to a much needed break and travels during the month of August, but my parents had some difficulties in July.
 
-In the end I was able to travel, but it started out rough with a flight cancellation and rearranging part of the trip. All worked out, and I was able to work just over a dozen hours during the four week trip. I came back feeling more optimistic, and catching up with family and work. It was a very late summer, warm through the end of October, and actually it barely now this quarter at all.
+In the end I was able to travel, but it started out rough with a flight cancellation and rearranging part of the trip. All worked out, and I was able to work just over a dozen hours during the four week trip. I came back feeling more optimistic, and catching up with family and work. It was a very late summer, warm through the end of October, and actually it barely snowed this quarter at all.
 
 As the year is coming to a close, I'm feeling similarly stressed as a year ago, having struggled to catch up and stay on top of everything I feel I should be doing.
 
@@ -253,6 +254,7 @@ Quick review of 2023's goals, what's changed after another year?
 # What now?
 
 My theme for 2025 is compassion. Both:
+
 * self compassion, offering myself understanding, patience, forgiveness and the benefit of the doubt, mostly understanding that I am human and can make mistakes or not always do everything perfectly
 * and compassion for others, taking care to consider that others are just doing their best, or might be having a bad day.
 
@@ -380,6 +382,9 @@ Breakdown:
     * Remember, I'm not chasing anything, because there is nothing to catch. Even when I reach or complete something, the next thing is just around the corner. And yes, there is a thrill or reward for achievement, but it's not any less fulfilling if I take time to get there at a more sane pace (in fact the opposite is likely true).
     * Use tools to make my workday easier such as dictation and AI.
     * There is always plenty of time. There is no other good way to work.
+1. Boundaries
+    * Don't work after dinner. Stay off my work email or laptop for work-related tasks.
+    * No phone use after 8:30pm in general. No laptop either.
 
 Mentally, I nourish myself (health) through stability and a culture of recognition and fun (play).
 

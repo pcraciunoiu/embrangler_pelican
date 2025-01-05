@@ -1,4 +1,5 @@
 Title: Q1 reflections
+Slug: q1-reflections-2024
 Date: 2024-04-21 12:36
 Tags: reflections
 Summary: Reflections on the first quarter of 2024 - fun, lots of sun, busier and more stressful than anticipated.
