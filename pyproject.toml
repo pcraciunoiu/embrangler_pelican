@@ -6,8 +6,8 @@ authors = ["Paul Craciunoiu <paul@craciunoiu.net>"]
 
 [tool.poetry.dependencies]
 python = "3.12.8"
-Markdown = "<4"
-pelican = "<5"
+Markdown = "*"
+pelican = "*"
 
 [tool.black]
 line-length = 100
