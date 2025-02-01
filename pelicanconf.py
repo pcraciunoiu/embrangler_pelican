@@ -73,6 +73,3 @@ SITEMAP_SAVE_AS = "sitemap.xml"
 
 # Related posts
 PLUGINS.append("plugins.related_posts")
-
-# Temporary fix, see https://github.com/getpelican/pelican/issues/3431
-IGNORE_FILES = [".#*"]
