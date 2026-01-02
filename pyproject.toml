@@ -7,7 +7,7 @@ authors = ["Paul Craciunoiu <paul@craciunoiu.net>"]
 [tool.poetry.dependencies]
 python = "3.14.2"
 Markdown = "*"
-pelican = "*"
+pelican = "4.11.0"
 
 [tool.black]
 line-length = 100
