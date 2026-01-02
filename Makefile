@@ -1,5 +1,5 @@
 #!/bin/bash
-PELICAN?=pelican
+PELICAN?=python -m pelican
 PELICANOPTS=
 
 BASEDIR=$(PWD)

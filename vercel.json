@@ -1,0 +1,5 @@
+{
+  "buildCommand": "make html",
+  "outputDirectory": "output"
+}
+
