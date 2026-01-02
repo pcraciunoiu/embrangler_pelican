@@ -365,6 +365,7 @@ Breakdown:
 
 1. Feel and let time pass
 	* Let emotions take their course. I can still write down my feelings and ideas, but don't act on them when they're nebulous and going around in circles. Just let time pass, sit with them as needed, although it's not good to get stuck on them and feel them over and over again. Look forward, or breathe through and let it pass. Stop thinking in circles.
+	* Listen to Romanian audiobooks to practice my native tongue (try Voxa?)
 2. Forgive myself
 	* Forgive myself for mistakes, for "wasting time" or "wasting energy" thinking about things over and over.
 	* Avoid circles of self-blame, and avoid blaming others too. I can feel upset and write things down, etc, but don't get hung up on them.
@@ -401,6 +402,7 @@ Breakdown:
 	* What are my values, what do I say yes to and what are the thousands of things I say no to in order to honor my commitments? Having a partner, parents, building a family and business. These all require saying no to lots of other things
 	* Care for my health, my well being
 	* Reach for healthy habits that energize me or give my mind a break, whether it's swimming, laying down and taking a breath, smelling something relaxing like rose or lavender, etc
+	* Read "Traction" book (EOS)
 2. I am not alone
 	* Seek connection when I need support. Offer what I can, bring something forward, with care, first and ask for support gently.
 	* Read, write, or pray for strength and guidance. Surrender to a greater help than I could possibly get from myself or others, through God.
