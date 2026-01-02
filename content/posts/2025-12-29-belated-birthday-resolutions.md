@@ -1,4 +1,4 @@
-Title: Belated Birthday Resolutions 2026
+Title: Belated Birthday Resolutions 2025
 Date: 2025-12-29 11:10
 Tags: resolution, future
 Summary: Reflections on 2025. Great progress on physical goals. Emotional and mental challenges, heavy personal stuff. Spiritual growth, more than in a decade perhaps?
