@@ -17,6 +17,7 @@ help:
 	@echo '   make clean                       remove the generated files         '
 	@echo '   make publish                     generate using production settings '
 	@echo '   make devserver                   start/restart develop_server.sh    '
+	@echo '   make export-requirements         regenerate requirements.txt (Vercel) '
 	@echo '                                                                       '
 
 
@@ -43,4 +44,7 @@ devserver:
 publish:
 	$(PELICAN) "$(INPUTDIR)" --output "$(OUTPUTDIR)" --settings "$(PUBLISHCONF)" $(PELICANOPTS)
 
-.PHONY: html help clean serve devserver publish
+export-requirements:
+	./scripts/export-requirements.sh
+
+.PHONY: html help clean serve devserver publish export-requirements
