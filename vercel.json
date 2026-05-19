@@ -1,5 +1,4 @@
 {
-  "buildCommand": "make html",
+  "buildCommand": "python3 -m pip install --upgrade pip && PIP_ONLY_BINARY=watchfiles python3 -m pip install -r requirements.txt -t .vercel_python_packages --upgrade && make html",
   "outputDirectory": "output"
 }
-
