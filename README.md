@@ -29,3 +29,7 @@ poetry run ./develop_server
 ```
 
 Output is written to `output/`.
+
+## Vercel
+
+Deploy uses `scripts/vercel-build.sh`: a project `.venv` from `requirements.txt` and `unset PYTHONPATH` so Pelican does not load the broken `watchfiles` copy under `.vercel_python_packages`.
