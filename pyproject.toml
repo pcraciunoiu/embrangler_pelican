@@ -1,22 +1,18 @@
-[tool.poetry]
+[project]
 name = "embrangler"
 version = "0.1.0"
-description = ""
-authors = ["Paul Craciunoiu <paul@craciunoiu.net>"]
-package-mode = false
+description = "Personal blog (Pelican)"
+authors = [{ name = "Paul Craciunoiu", email = "paul@craciunoiu.net" }]
+requires-python = ">=3.12,<4"
+dependencies = [
+    "Markdown>=3.1",
+    "pelican>=4.12",
+    # anyio imports typing_extensions on all Python versions but only declares it for older ones
+    "typing-extensions",
+]
 
-[tool.poetry.requires-plugins]
-poetry-plugin-export = ">=1.8"
-
-[tool.poetry.dependencies]
-python = ">=3.12,<4"
-Markdown = "*"
-pelican = "*"
-# anyio imports typing_extensions on all Python versions but only declares it for older ones
-typing_extensions = "*"
-
-[tool.poetry.group.dev.dependencies]
-pre-commit = "^4.0"
+[tool.uv]
+package = false
 
 [tool.black]
 line-length = 100
@@ -25,8 +21,8 @@ include = '\.pyi?$'
 exclude = '''
 (
   /(
-      \.eggs         # exclude a few common directories in the
-    | \.git          # root of the project
+      \.eggs
+    | \.git
     | \.mypy_cache
     | \.pytest_cache
     | \.tox
@@ -42,6 +38,7 @@ exclude = '''
 )
 '''
 
-[build-system]
-requires = ["poetry>=2"]
-build-backend = "poetry.masonry.api"
+[dependency-groups]
+dev = [
+    "pip-audit>=2.10.0",
+]
