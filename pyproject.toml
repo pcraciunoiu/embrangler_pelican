@@ -6,7 +6,7 @@ authors = [{ name = "Paul Craciunoiu", email = "paul@craciunoiu.net" }]
 requires-python = ">=3.12,<4"
 dependencies = [
     "Markdown>=3.1",
-    "pelican>=4.11",
+    "pelican>=4.12",
     # anyio imports typing_extensions on all Python versions but only declares it for older ones
     "typing-extensions",
 ]
@@ -37,3 +37,8 @@ exclude = '''
   )/
 )
 '''
+
+[dependency-groups]
+dev = [
+    "pip-audit>=2.10.0",
+]
