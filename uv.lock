@@ -45,8 +45,8 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "markdown", specifier = ">=3.1,<4" },
-    { name = "pelican", specifier = ">=4.11,<5" },
+    { name = "markdown", specifier = ">=3.1" },
+    { name = "pelican", specifier = ">=4.11" },
     { name = "typing-extensions" },
 ]
 

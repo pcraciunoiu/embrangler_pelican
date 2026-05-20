@@ -5,8 +5,8 @@ description = "Personal blog (Pelican)"
 authors = [{ name = "Paul Craciunoiu", email = "paul@craciunoiu.net" }]
 requires-python = ">=3.12,<4"
 dependencies = [
-    "Markdown>=3.1,<4",
-    "pelican>=4.11,<5",
+    "Markdown>=3.1",
+    "pelican>=4.11",
     # anyio imports typing_extensions on all Python versions but only declares it for older ones
     "typing-extensions",
 ]
