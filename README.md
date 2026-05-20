@@ -4,32 +4,27 @@ This blog is generated using [Pelican](https://github.com/getpelican/pelican/).
 
 ## Dependencies
 
-[Poetry](https://python-poetry.org/) is the source of truth (`pyproject.toml` + `poetry.lock`). [requirements.txt](requirements.txt) is generated from the lockfile for [Vercel](https://vercel.com/) and must not be edited by hand.
+[uv](https://docs.astral.sh/uv/) manages dependencies via `pyproject.toml` and `uv.lock`.
 
-After changing dependencies:
-
-```bash
-poetry lock          # if pyproject.toml changed
-make export-requirements
-```
-
-Or install [pre-commit](https://pre-commit.com/) once; it regenerates `requirements.txt` when `pyproject.toml` or `poetry.lock` change:
+After changing dependencies in `pyproject.toml`:
 
 ```bash
-poetry install
-poetry run pre-commit install
+uv lock
+uv sync
 ```
+
+[Dependabot](.github/dependabot.yml) updates `uv.lock` (patch and minor bumps grouped into one PR).
 
 ## Local build
 
 ```bash
-poetry install
-poetry run make html    # or: ./deploy.sh
-poetry run ./develop_server
+uv sync
+uv run make html    # or: ./deploy.sh
+./develop_server
 ```
 
 Output is written to `output/`.
 
 ## Vercel
 
-Deploy uses `scripts/vercel-build.sh`: a project `.venv` from `requirements.txt` and `unset PYTHONPATH` so Pelican does not load the broken `watchfiles` copy under `.vercel_python_packages`.
+Deploy uses `scripts/vercel-build.sh`: `uv sync --frozen --no-dev`, then `unset PYTHONPATH` and `uv run make html` so Pelican does not load the broken `watchfiles` copy under `.vercel_python_packages`.
